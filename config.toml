@@ -22,6 +22,9 @@ theme = "hugo-theme-bootstrap4"
   # Format dates with Go's time formatting
   date_format = "Mon Jan 02, 2006"
 
+  # verification string for Google Webmaster Tools
+  google_verify_meta = "BAi69DROASu2b2mkVNA_EyUsobfH7Mq8BmSg2Rn-Zp4"
+
   [params.sidebar]
     # Hide the sidebar? (Default: false)
     hide = false
