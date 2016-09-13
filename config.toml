@@ -1,0 +1,45 @@
+# Hugo variables
+# 
+baseurl = "https://picturingjordan.com/"
+languageCode = "en-us"
+title = "Picturing Jordan"
+theme = "hugo-theme-bootstrap4"
+
+[permalinks]
+  post = "/:year/:month/:title/"
+  page = "/:slug/"
+
+[params]
+  # Site author
+  author = "Alan Orth"
+
+  # Description/subtitle for homepage (can be Markdown)
+  description = "Sharing Jordan with the world — one picture at a time."
+
+  # How many posts to show on the homepage (Default: 5)
+  #num_recent_posts = 5
+
+  # Format dates with Go's time formatting
+  date_format = "Mon Jan 02, 2006"
+
+  [params.sidebar]
+    # Hide the sidebar? (Default: false)
+    hide = false
+
+    # Optional about block for sidebar (can be Markdown)
+    about = "*Picturing Jordan*, sharing Jordan with the world — one picture at a time."
+
+    # How many posts to show on the homepage (Default: 5)
+    #num_recent_posts = 2
+
+[[menu.sidebar]]
+  name = "Alan in Kenya"
+  url = "https://alaninkenya.org"
+
+[[menu.sidebar]]
+  name = "Mjanja Tech"
+  url = "https://mjanja.ch"
+
+[[menu.sidebar]]
+  name = "English Bulgaria"
+  url = "https://englishbulgaria.net"
