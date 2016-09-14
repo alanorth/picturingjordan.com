@@ -4,6 +4,7 @@ title = "Eid Mubarak in Your Neighborhood Dumpster"
 slug = "eid-mubarak-neighborhood-dumpster"
 author = "Alan Orth"
 tags = ['Eid', 'Sheep']
+description = "Happy Eid to the lazy bastard who threw his sheep carcass into our local dumpster."
 +++
 
 {{< figure src="/2016/09/sheep-dumpster-eid-al-adha.jpg" title="Sheep carcass lazily discarded in neighborhood dumpster" >}}
