@@ -1,5 +1,6 @@
 +++
 date = "2016-09-17T15:48:23+03:00"
+author = "Alan Orth"
 title = "Beautiful Hand-Painted Woodwork"
 slug = "beautiful-hand-painted-woodwork"
 description = "An old Syrian man creates jaw dropping, hand-painted wood panel ceilings in Amman."
