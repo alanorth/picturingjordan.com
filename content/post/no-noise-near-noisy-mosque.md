@@ -5,6 +5,7 @@ slug = "no-noise-near-noisy-mosque"
 author = "Alan Orth"
 description = "Ironic double standard for noise pollution from our local mosque in Amman."
 tags = ["Mosque", "Noise"]
+image = "/2016/09/no-noise-near-mosque.jpg"
 +++
 
 {{< figure src="/2016/09/no-noise-near-mosque.jpg" title="Sign forbidding sound near mosque on Rainbow Street, Amman" >}}

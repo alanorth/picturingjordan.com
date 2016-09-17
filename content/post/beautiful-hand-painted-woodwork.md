@@ -5,6 +5,7 @@ title = "Beautiful Hand-Painted Woodwork"
 slug = "beautiful-hand-painted-woodwork"
 description = "An old Syrian man creates jaw dropping, hand-painted wood panel ceilings in Amman."
 tags = ["Painting", "Art", "Architecture"]
+image = "/2016/09/IMG_20160916_174409.jpg"
 
 +++
 

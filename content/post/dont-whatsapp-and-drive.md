@@ -5,6 +5,7 @@ slug = "dont-whatsapp-and-drive"
 author = "Alan Orth"
 tags = ['WhatsApp', 'Driving']
 description = "Certain common sense public safety considerations haven't reached Jordan yet."
+image = "/2016/09/IMG_20160810_162505.jpg"
 +++
 
 {{< figure src="/2016/09/IMG_20160810_162505.jpg" title="Billboard in Amman cautions against using your phone while driving" >}}
