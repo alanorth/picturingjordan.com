@@ -35,6 +35,9 @@ theme = "hugo-theme-bootstrap4"
     # How many posts to show on the homepage (Default: 5)
     #num_recent_posts = 2
 
+  [params.social]
+    twitter_username = "@mralanorth"
+
 [[menu.sidebar]]
   name = "Alan in Kenya"
   url = "https://alaninkenya.org"
