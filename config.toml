@@ -38,6 +38,16 @@ theme = "hugo-theme-bootstrap4"
   [params.social]
     twitter_username = "@mralanorth"
 
+  [params.sharingicons]
+    # Hide the sharing icons on posts? (Default: false)
+    hide = false
+
+    # Optionally, set any of these to false to hide them:
+    #facebook = true
+    #googleplus = true
+    #linkedin = true
+    #twitter = true
+
 [[menu.sidebar]]
   name = "Alan in Kenya"
   url = "https://alaninkenya.org"
