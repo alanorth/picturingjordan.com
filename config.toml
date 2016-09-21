@@ -4,6 +4,7 @@ baseurl = "https://picturingjordan.com/"
 languageCode = "en-us"
 title = "Picturing Jordan"
 theme = "hugo-theme-bootstrap4-blog"
+enableRobotsTXT = true
 
 [permalinks]
   post = "/:year/:month/:title/"
