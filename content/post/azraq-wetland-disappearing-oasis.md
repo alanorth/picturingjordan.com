@@ -2,7 +2,8 @@
 date = "2016-09-24T21:28:31+03:00"
 title = "Azraq Wetland, a Disappearing Oasis"
 image = "/2016/09/IMG_20160924_101454.jpg"
-tags = ["Wetland", "Oasis", "Nature"]
+categories = ["Nature"]
+tags = ["Wetland", "Oasis"]
 slug = "azraq-wetland-disappearing-oasis"
 description = "A thriving oasis in Jordan's desert is at risk of disappearing."
 author = "Alan Orth"

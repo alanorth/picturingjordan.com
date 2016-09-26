@@ -4,7 +4,8 @@ author = "Alan Orth"
 title = "Camping in the Dana Biosphere Reserve"
 slug = "camping-dana-biosphere-reserve"
 description = "Picturesque camping in the Dana Biosphere reserve atop Jordan's Rift Valley."
-tags = ["Camping", "Nature"]
+categories = ["Nature"]
+tags = ["Camping"]
 image = "/2016/09/DSC_0031.JPG"
 +++
 
