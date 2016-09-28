@@ -13,4 +13,6 @@ image = "/2016/09/DSC_0008.jpg"
 
 Another day, another exquisite, hand-painted ceiling in Amman. Just like the [other hand-painted wood ceiling]({{< relref "post/beautiful-hand-painted-woodwork.md" >}}) I posted about a few weeks ago, the work was done by an old Syrian man. This one is actually in my flat, and I may or may not have taken this picture while laying on my back on the living room floor.
 
+<!--more-->
+
 *Technical: Nikon D3100, post processed from RAW with [darktable](https://www.darktable.org/).*

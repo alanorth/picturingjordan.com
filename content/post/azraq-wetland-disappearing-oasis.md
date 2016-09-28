@@ -13,4 +13,6 @@ author = "Alan Orth"
 
 There's an amazing wetland nature preserve an hour and a half from Amman — in thirty minutes of walking around, I saw birds, snakes, crabs, fish, and even water buffaloes! For thousands of years it was a massive, thriving oasis whose ecological diversity supported human settlements, but in the past few decades it has come dangerously close to drying up due to increased water usage from surrounding cities.
 
+<!--more-->
+
 Learn more about the wetlands on a trip with [Wild Jordan](http://wildjordan.com/) or [Experience Jordan](http://experiencejordan.com/), and *turn off the water in your shower or sink when you don't need it!*

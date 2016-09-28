@@ -12,3 +12,5 @@ author = "Alan Orth"
 {{< figure src="/2016/09/IMG_20160810_160953.jpg" title="Everybody likes baklava!" alt="Young child smiling and wrapping up baklava in a shop in Amman" >}}
 
 There's a shop in one of Amman's downtown markets that sells traditional sweets. I'm not sure who was more excited about this half kilo of _baklawa_ — me, or the jovial young Jordanian selling it.
+
+<!--more-->
