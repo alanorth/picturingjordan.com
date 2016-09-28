@@ -18,7 +18,7 @@ enableRobotsTXT = true
   description = "Sharing Jordan with the world — one picture at a time."
 
   # How many posts to show on the homepage (Default: 5)
-  #num_recent_posts = 5
+  num_recent_posts = 3
 
   # Format dates with Go's time formatting
   date_format = "Mon Jan 02, 2006"
