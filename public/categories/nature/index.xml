@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nature on Picturing Jordan</title>
-    <link>https://picturingjordan.com/categories/nature/</link>
-    <description>Recent content in Nature on Picturing Jordan</description>
+    <title>Picturing Jordan</title>
+    <link>https://picturingjordan.com/categories/nature/index.xml</link>
+    <description>Recent content on Picturing Jordan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Sep 2016 21:28:31 +0300</lastBuildDate>
     <atom:link href="https://picturingjordan.com/categories/nature/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -15,8 +14,7 @@
       <pubDate>Sat, 24 Sep 2016 21:28:31 +0300</pubDate>
       
       <guid>https://picturingjordan.com/2016/09/azraq-wetland-a-disappearing-oasis/</guid>
-      <description>
-&lt;figure &gt;
+      <description>&lt;figure &gt;
     
         &lt;img src=&#34;https://picturingjordan.com/2016/09/IMG_20160924_101454.jpg&#34; alt=&#34;Small lake with bridge and vegetation in the Jordanian desert.&#34; /&gt;
     
@@ -31,8 +29,9 @@
 
 &lt;p&gt;There&amp;rsquo;s an amazing wetland nature preserve an hour and a half from Amman — in thirty minutes of walking around, I saw birds, snakes, crabs, fish, and even water buffaloes! For thousands of years it was a massive, thriving oasis whose ecological diversity supported human settlements, but in the past few decades it has come dangerously close to drying up due to increased water usage from surrounding cities.&lt;/p&gt;
 
-&lt;p&gt;Learn more about the wetlands on a trip with &lt;a href=&#34;http://wildjordan.com/&#34;&gt;Wild Jordan&lt;/a&gt; or &lt;a href=&#34;http://experiencejordan.com/&#34;&gt;Experience Jordan&lt;/a&gt;, and &lt;em&gt;turn off the water in your shower or sink when you don&amp;rsquo;t need it!&lt;/em&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Learn more about the wetlands on a trip with &lt;a href=&#34;http://wildjordan.com/&#34;&gt;Wild Jordan&lt;/a&gt; or &lt;a href=&#34;http://experiencejordan.com/&#34;&gt;Experience Jordan&lt;/a&gt;, and &lt;em&gt;turn off the water in your shower or sink when you don&amp;rsquo;t need it!&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -41,8 +40,7 @@
       <pubDate>Mon, 19 Sep 2016 09:48:23 +0300</pubDate>
       
       <guid>https://picturingjordan.com/2016/09/camping-in-the-dana-biosphere-reserve/</guid>
-      <description>
-&lt;figure &gt;
+      <description>&lt;figure &gt;
     
         &lt;img src=&#34;https://picturingjordan.com/2016/09/DSC_0031.JPG&#34; alt=&#34;Just after sunrise at a camp in the Dana Biosphere&#34; /&gt;
     
@@ -56,7 +54,8 @@
 
 
 &lt;p&gt;A few weeks ago I slept in a tent on the cusp of Jordan&amp;rsquo;s Rift Valley. &lt;a href=&#34;http://wildjordan.com/&#34;&gt;Wild Jordan&lt;/a&gt; has regular hiking and camping trips to the reserve and they are very affordable. The staff are friendly and genuinely care about nature conservation. Trips to this and other national parks are part of an impressive &lt;a href=&#34;http://www.rscn.org.jo/&#34;&gt;government effort&lt;/a&gt; to preserve Jordan&amp;rsquo;s natural spaces.&lt;/p&gt;
-</description>
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

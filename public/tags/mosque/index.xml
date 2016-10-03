@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mosque on Picturing Jordan</title>
-    <link>https://picturingjordan.com/tags/mosque/</link>
-    <description>Recent content in Mosque on Picturing Jordan</description>
+    <title>Picturing Jordan</title>
+    <link>https://picturingjordan.com/tags/mosque/index.xml</link>
+    <description>Recent content on Picturing Jordan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Sep 2016 11:54:07 +0300</lastBuildDate>
     <atom:link href="https://picturingjordan.com/tags/mosque/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -15,8 +14,7 @@
       <pubDate>Thu, 29 Sep 2016 11:54:07 +0300</pubDate>
       
       <guid>https://picturingjordan.com/2016/09/king-hussein-mosque-at-night/</guid>
-      <description>
-&lt;figure &gt;
+      <description>&lt;figure &gt;
     
         &lt;img src=&#34;https://picturingjordan.com/2016/09/DSC_0010.jpg&#34; alt=&#34;Amman&amp;#39;s King Hussein mosque at night&#34; /&gt;
     
@@ -31,8 +29,9 @@
 
 &lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/King_Hussein_Mosque&#34;&gt;King Hussein mosque&lt;/a&gt; was built in 2005 and is the largest mosque in Jordan. I haven&amp;rsquo;t visited it yet, but I&amp;rsquo;ve spent quite a few evenings admiring it from a balcony in the &lt;em&gt;Khalda&lt;/em&gt; neighborhood of West Amman.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Technical: Nikon D3100, ten-second exposure time, post processed from RAW with &lt;a href=&#34;https://www.darktable.org/&#34;&gt;darktable&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Technical: Nikon D3100, ten-second exposure time, post processed from RAW with &lt;a href=&#34;https://www.darktable.org/&#34;&gt;darktable&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -41,8 +40,7 @@
       <pubDate>Wed, 07 Sep 2016 19:32:36 +0300</pubDate>
       
       <guid>https://picturingjordan.com/2016/09/no-noise-near-the-noisy-mosque/</guid>
-      <description>
-&lt;figure &gt;
+      <description>&lt;figure &gt;
     
         &lt;img src=&#34;https://picturingjordan.com/2016/09/no-noise-near-mosque.jpg&#34; alt=&#34;Sign forbidding sound near mosque on Rainbow Street, Amman&#34; /&gt;
     
@@ -56,7 +54,8 @@
 
 
 &lt;p&gt;The irony is rich with this one, because this mosque has a sound system from another planet. If I wasn&amp;rsquo;t worried about my personal safety I&amp;rsquo;d put up a sign right next to it saying: &lt;em&gt;Please mute your mosque, there is a sleeping Alan 50m away&lt;/em&gt;.&lt;/p&gt;
-</description>
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

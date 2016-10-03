@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Painting on Picturing Jordan</title>
-    <link>https://picturingjordan.com/tags/painting/</link>
-    <description>Recent content in Painting on Picturing Jordan</description>
+    <title>Picturing Jordan</title>
+    <link>https://picturingjordan.com/tags/painting/index.xml</link>
+    <description>Recent content on Picturing Jordan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Sep 2016 14:28:23 +0300</lastBuildDate>
     <atom:link href="https://picturingjordan.com/tags/painting/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -15,8 +14,7 @@
       <pubDate>Mon, 26 Sep 2016 14:28:23 +0300</pubDate>
       
       <guid>https://picturingjordan.com/2016/09/another-beautiful-hand-painted-wood-ceiling/</guid>
-      <description>
-&lt;figure &gt;
+      <description>&lt;figure &gt;
     
         &lt;img src=&#34;https://picturingjordan.com/2016/09/DSC_0008.jpg&#34; alt=&#34;A hand-painted floral pattern on wooden panels on the ceiling&#34; /&gt;
     
@@ -31,8 +29,9 @@
 
 &lt;p&gt;Another day, another exquisite, hand-painted ceiling in Amman. Just like the &lt;a href=&#34;https://picturingjordan.com/2016/09/beautiful-hand-painted-woodwork/&#34;&gt;other hand-painted wood ceiling&lt;/a&gt; I posted about a few weeks ago, the work was done by an old Syrian man. This one is actually in my flat, and I may or may not have taken this picture while laying on my back on the living room floor.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Technical: Nikon D3100, post processed from RAW with &lt;a href=&#34;https://www.darktable.org/&#34;&gt;darktable&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Technical: Nikon D3100, post processed from RAW with &lt;a href=&#34;https://www.darktable.org/&#34;&gt;darktable&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -41,8 +40,7 @@
       <pubDate>Sat, 17 Sep 2016 15:48:23 +0300</pubDate>
       
       <guid>https://picturingjordan.com/2016/09/beautiful-hand-painted-woodwork/</guid>
-      <description>
-&lt;figure &gt;
+      <description>&lt;figure &gt;
     
         &lt;img src=&#34;https://picturingjordan.com/2016/09/IMG_20160916_174409.jpg&#34; alt=&#34;Beautiful hand-painted wood panels on the ceiling&#34; /&gt;
     
@@ -56,7 +54,8 @@
 
 
 &lt;p&gt;There&amp;rsquo;s an old Syrian man who does this fantastic hand painting on wood panels in Amman. A few flats in our building have them installed on the ceiling, but this one takes the cake. I&amp;rsquo;m not sure if it&amp;rsquo;s typical for the region or not — the man was referencing pictures from a Russian art book — but they are exquisite.&lt;/p&gt;
-</description>
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
