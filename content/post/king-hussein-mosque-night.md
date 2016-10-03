@@ -4,7 +4,7 @@ title = "King Hussein Mosque at Night"
 author = "Alan Orth"
 slug = "king-hussein-mosque-night"
 categories = ["Architecture"]
-tags = ["Mosque"]
+tags = ["Mosque", "Amman"]
 description = "Alan practices night photography on the largest mosque in Amman."
 image = "/2016/09/DSC_0010.jpg"
 +++

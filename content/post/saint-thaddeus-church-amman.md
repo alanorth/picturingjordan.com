@@ -4,7 +4,7 @@ title = "Saint Thaddeus Church in Amman"
 slug = "saint-thaddeus-church-amman"
 image = "/2016/09/IMG_20160919_141959.jpg"
 categories = ["Architecture"]
-tags = ["Church", "Armenia"]
+tags = ["Church", "Amman"]
 description = "Easily one of the most unique buildings in Amman."
 +++
 

@@ -4,7 +4,7 @@ title = "No Noise Near the Noisy Mosque"
 slug = "no-noise-near-noisy-mosque"
 author = "Alan Orth"
 description = "Ironic double standard for noise pollution from our local mosque in Amman."
-tags = ["Mosque", "Noise"]
+tags = ["Mosque", "Noise", "Amman"]
 image = "/2016/09/no-noise-near-mosque.jpg"
 +++
 
