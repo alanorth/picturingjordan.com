@@ -1,0 +1,14 @@
+- id: about
+  translation: "За нас"
+
+- id: home
+  translation: "Начало"
+
+- id: readMore
+  translation: "Чети повече"
+
+- id: translations
+  translation: "Преводи"
+
+- id: share
+  translation: "Деля"
