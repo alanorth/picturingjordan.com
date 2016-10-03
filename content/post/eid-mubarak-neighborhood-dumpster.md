@@ -3,7 +3,7 @@ date = "2016-09-14T09:36:00+03:00"
 title = "Eid Mubarak in Your Neighborhood Dumpster"
 slug = "eid-mubarak-neighborhood-dumpster"
 author = "Alan Orth"
-tags = ['Eid', 'Sheep', "Amman"]
+tags = ["Eid", "Sheep", "Amman"]
 description = "Happy Eid to the lazy bastard who threw his sheep carcass into our local dumpster."
 image = "/2016/09/sheep-dumpster-eid-al-adha.jpg"
 +++
