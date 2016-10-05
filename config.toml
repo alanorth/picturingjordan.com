@@ -7,7 +7,7 @@ theme = "hugo-theme-bootstrap4-blog"
 enableRobotsTXT = true
 
 [permalinks]
-  post = "/:year/:month/:title/"
+  post = "/:year/:month/:slug/"
   page = "/:slug/"
 
 [params]
