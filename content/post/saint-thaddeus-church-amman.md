@@ -2,6 +2,7 @@
 date = "2016-09-20T14:58:34+03:00"
 title = "Saint Thaddeus Church in Amman"
 slug = "saint-thaddeus-church-amman"
+aliases = ["/2016/09/saint-thaddeus-church-in-amman/"]
 image = "/2016/09/IMG_20160919_141959.jpg"
 categories = ["Architecture"]
 tags = ["Church", "Amman"]

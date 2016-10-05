@@ -2,6 +2,7 @@
 date = "2016-09-07T19:32:36+03:00"
 title = "No Noise Near the Noisy Mosque"
 slug = "no-noise-near-noisy-mosque"
+aliases = ["/2016/09/no-noise-near-the-noisy-mosque/"]
 author = "Alan Orth"
 description = "Ironic double standard for noise pollution from our local mosque in Amman."
 tags = ["Mosque", "Noise", "Amman"]

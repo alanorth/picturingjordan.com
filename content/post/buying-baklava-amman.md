@@ -2,6 +2,7 @@
 date = "2016-09-23T11:15:16+03:00"
 title = "Buying Baklava in Amman"
 slug = "buying-baklava-amman"
+aliases = ["/2016/09/buying-baklava-in-amman/"]
 categories = ["Food"]
 tags = ["Baklawa", "Amman"]
 description = "Buying baklava from a jovial young Jordanian in the market."
