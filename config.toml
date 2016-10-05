@@ -32,7 +32,7 @@ paginate = 3
     # Optional about block for sidebar (can be Markdown)
     about = "*Picturing Jordan*, sharing Jordan with the world — one picture at a time.<br><br>[Read more →](/about)"
 
-    # How many posts to show on the homepage (Default: 5)
+    # How many posts to show on the sidebar (Default: 5)
     #num_recent_posts = 2
 
   [params.social]
