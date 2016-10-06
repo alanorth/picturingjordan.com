@@ -3,7 +3,6 @@ date = "2016-10-06T13:54:07+03:00"
 title = 'Джамията "Крал Хюсеин" през нощта'
 author = "Стела Джурина"
 slug = "king-hussein-mosque-night"
-aliases = ["/2016/09/king-hussein-mosque-at-night/"]
 categories = ["Архитектура"]
 tags = ["Джамия", "Аман"]
 description = "Алън се упражнява в нощна фотография снимайки най-голямата джамия в Аман."
