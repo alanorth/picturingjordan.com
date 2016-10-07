@@ -66,5 +66,3 @@ DefaultContentLanguage = "en"
 
 [languages.en]
 [languages.bg]
-  [languages.bg.blackfriday]
-  angledQuotes = true
