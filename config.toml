@@ -25,6 +25,12 @@ paginate = 3
   # verification string for Google Webmaster Tools
   google_verify_meta = "BAi69DROASu2b2mkVNA_EyUsobfH7Mq8BmSg2Rn-Zp4"
 
+  # verification string for Bing Webmaster Tools
+  bing_verify_meta = "2CA373095D945D1AA256B1CD8A3DF872"
+
+  # verification string for Yandex Webmaster Tools
+  yandex_verify_meta = "96b099438f75a04a"
+
   [params.sidebar]
     # Hide the sidebar? (Default: false)
     hide = false
