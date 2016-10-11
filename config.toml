@@ -71,5 +71,6 @@ copyright = "Except where otherwise noted, content on this site is licensed unde
 # See: https://github.com/spf13/hugo/blob/master/docs/content/content/multilingual.md
 DefaultContentLanguage = "en"
 
+# Languages to render
 [languages.en]
 [languages.bg]
