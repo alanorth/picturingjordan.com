@@ -43,7 +43,7 @@ copyright = "Except where otherwise noted, content on this site is licensed unde
     #num_recent_posts = 2
 
   [params.social]
-    twitter_username = "@mralanorth"
+    twitter = "mralanorth"
 
   [params.sharingicons]
     # Hide the sharing icons on posts? (Default: false)
