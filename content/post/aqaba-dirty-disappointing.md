@@ -4,7 +4,7 @@ title = "Aqaba is Dirty and Disappointing"
 slug = "aqaba-dirty-disappointing"
 tags = ["Red Sea", "Aqaba"]
 author = "Alan Orth"
-image = "/2016/10/IMG_20161002_131313.jpg"
+images = ["/2016/10/IMG_20161002_131313.jpg"]
 description = "After a few days in Aqaba you'll be wishing you were stranded on Mars."
 +++
 

@@ -7,7 +7,7 @@ aliases = ["/2016/09/camping-in-the-dana-biosphere-reserve/"]
 description = "Picturesque camping in the Dana Biosphere reserve atop Jordan's Rift Valley."
 categories = ["Nature"]
 tags = ["Camping"]
-image = "/2016/09/DSC_0031.JPG"
+images = ["/2016/09/DSC_0031.JPG"]
 +++
 
 {{< figure src="/2016/09/DSC_0031.JPG" title="Just after sunrise at a camp in the Dana Biosphere" alt="Just after sunrise at a camp in the Dana Biosphere" >}}

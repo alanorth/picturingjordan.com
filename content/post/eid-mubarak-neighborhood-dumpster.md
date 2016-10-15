@@ -6,7 +6,7 @@ aliases = ["/2016/09/eid-mubarak-in-your-neighborhood-dumpster/"]
 author = "Alan Orth"
 tags = ["Eid", "Sheep", "Amman"]
 description = "Happy Eid to the lazy bastard who threw his sheep carcass into our local dumpster."
-image = "/2016/09/sheep-dumpster-eid-al-adha.jpg"
+images = ["/2016/09/sheep-dumpster-eid-al-adha.jpg"]
 +++
 
 {{< figure src="/2016/09/sheep-dumpster-eid-al-adha.jpg" title="Sheep carcass lazily discarded in neighborhood dumpster" alt="Sheep carcass lazily discarded in neighborhood dumpster" >}}

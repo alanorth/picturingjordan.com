@@ -6,7 +6,7 @@ aliases = ["/2016/09/buying-baklava-in-amman/"]
 categories = ["Food"]
 tags = ["Baklawa", "Amman"]
 description = "Buying baklava from a jovial young Jordanian in the market."
-image = "/2016/09/IMG_20160810_160953.jpg"
+images = ["/2016/09/IMG_20160810_160953.jpg"]
 author = "Alan Orth"
 +++
 

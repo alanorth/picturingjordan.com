@@ -2,7 +2,7 @@
 author = "Alan Orth"
 date = "2016-10-11T12:06:06+03:00"
 title = "Sheikh Zayed Mosque: the Pearl of Aqaba"
-image = "/2016/10/DSC_0024.JPG"
+images = ["/2016/10/DSC_0024.JPG"]
 slug = "sheikh-zayed-mosque-pearl-aqaba"
 description = "The pearl of Aqaba is an elegant white mosque by the sea."
 categories = ["Architecture"]

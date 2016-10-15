@@ -1,7 +1,7 @@
 +++
 date = "2016-09-24T21:28:31+03:00"
 title = "Azraq Wetland, a Disappearing Oasis"
-image = "/2016/09/IMG_20160924_101454.jpg"
+images = ["/2016/09/IMG_20160924_101454.jpg"]
 categories = ["Nature"]
 tags = ["Wetland", "Oasis"]
 slug = "azraq-wetland-disappearing-oasis"

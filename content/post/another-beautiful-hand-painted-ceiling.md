@@ -7,7 +7,7 @@ aliases = ["/2016/09/another-beautiful-hand-painted-wood-ceiling/"]
 description = "An old Syrian man creates jaw dropping, hand-painted wood panel ceilings in Amman."
 categories = ["Architecture"]
 tags = ["Painting", "Art"]
-image = "/2016/09/DSC_0008.jpg"
+images = ["/2016/09/DSC_0008.jpg"]
 +++
 
 {{< figure src="/2016/09/DSC_0008.jpg" title="A colorful floral pattern pops out of the ceiling" alt="A hand-painted floral pattern on wooden panels on the ceiling" >}}

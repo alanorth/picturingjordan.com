@@ -7,7 +7,7 @@ aliases = ["/2016/09/king-hussein-mosque-at-night/"]
 categories = ["Architecture"]
 tags = ["Mosque", "Amman"]
 description = "Alan practices night photography on the largest mosque in Amman."
-image = "/2016/09/DSC_0010.jpg"
+images = ["/2016/09/DSC_0010.jpg"]
 +++
 
 {{< figure src="/2016/09/DSC_0010.jpg" title="Amman's King Hussein mosque at night" alt="Amman's King Hussein mosque at night" >}}
