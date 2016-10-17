@@ -74,3 +74,4 @@ DefaultContentLanguage = "en"
 # Languages to render
 [languages.en]
 [languages.bg]
+  date_format = "02 Jan 2006"
