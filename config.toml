@@ -33,9 +33,6 @@ copyright = "Except where otherwise noted, content on this site is licensed unde
   yandex_verify_meta = "96b099438f75a04a"
 
   [params.sidebar]
-    # Hide the sidebar? (Default: false)
-    hide = false
-
     # Optional about block for sidebar (can be Markdown)
     about = "*Picturing Jordan*, sharing Jordan with the world — one picture at a time.<br><br>[Read more →](/about)"
 
