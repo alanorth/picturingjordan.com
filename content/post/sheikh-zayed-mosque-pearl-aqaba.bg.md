@@ -4,7 +4,7 @@ date = "2016-10-23T09:06:06+03:00"
 title = "Джамията „Шейх Зайед“: Перлата на Акаба"
 images = ["/2016/10/DSC_0024.JPG"]
 slug = "sheikh-zayed-mosque-pearl-aqaba"
-description = "The pearl of Aqaba is an elegant white mosque by the sea."
+description = "Перлата на Акаба е елегантен бял джамия от морето."
 categories = ["Архитектура"]
 tags = ["Джамия", "Акаба"]
 +++
