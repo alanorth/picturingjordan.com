@@ -15,7 +15,7 @@ categories = [
 
 +++
 
-{{< figure src="/2016/12/DSC_0029.JPG" caption="Petra's \"monastery\" basking in the golden light just before sunset" alt="Petra's \"monastery\" basking in the golden light just before sunset" >}}
+{{< figure src="/2016/12/DSC_0029.JPG" title="Petra's \"monastery\" basking in the golden light just before sunset" alt="Petra's \"monastery\" basking in the golden light just before sunset" >}}
 
 The [Nabataeans](https://en.wikipedia.org/wiki/Nabataeans) were a tribe who became filthy rich on the trade of frankincense, myrrh, and spices in the Arabian peninsula around 2,000 years ago. They built Petra as the capital of their flourishing civilization. Hauntingly beautiful stone facades standing one hundred meters tall are amazingly intact and well preserved to this day.
 
