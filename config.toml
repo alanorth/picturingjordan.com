@@ -8,6 +8,7 @@ enableRobotsTXT = true
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 3
 copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
+enableGitInfo = true
 
 [permalinks]
   post = "/:year/:month/:slug/"
