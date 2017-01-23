@@ -44,7 +44,8 @@ enableGitInfo = true
     #num_recent_posts = 2
 
   [params.social]
-    twitter = "mralanorth"
+    # twitter handle for the site (ideally not a person, eg: nytimes, flickr, etc)
+    twitter = "picturingjordan"
 
 [[menu.sidebar]]
   name = "Alan in Kenya"
