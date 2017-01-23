@@ -9,7 +9,7 @@ author = "Alan Orth"
 slug = "dome-of-the-rock"
 +++
 
-{{< figure src="/2017/01/IMG_20170117_083551.jpg" title="Golden dome, vibrant tiles, and elegant Arabic calligraphy" alt="" >}}
+{{< figure src="/2017/01/IMG_20170117_083551.jpg" title="Golden dome, vibrant tiles, and elegant Arabic calligraphy" alt="Golden dome, vibrant tiles, and elegant Arabic calligraphy" >}}
 
 While not _technically_ in Jordan, Jerusalem's [Dome of the Rock](https://en.wikipedia.org/wiki/Dome_of_the_Rock) is basically just a stone's throw away from Amman (pun intended). Not only is this shrine capped with a golden dome, covered in vibrant Ottoman-era tilework, and adorned with elegant Arabic calligraphy, it also boasts an [impressive resume of sacred claims to fame](https://en.wikipedia.org/wiki/Foundation_Stone).
 
