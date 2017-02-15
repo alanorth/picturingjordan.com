@@ -6,3 +6,6 @@ Picturing Jordan is a blog that attempts to share Jordan with the world one pict
 </p>
 
 You can see it live on the Internet at [picturingjordan.com](https://picturingjordan.com).
+
+## License
+The content is licensed [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless stated otherwise.
