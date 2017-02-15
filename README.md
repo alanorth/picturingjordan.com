@@ -7,6 +7,9 @@ Picturing Jordan is a blog that attempts to share Jordan with the world one pict
 
 You can see it live on the Internet at [picturingjordan.com](https://picturingjordan.com).
 
+## Technology
+The site is built with the [Hugo](https://gohugo.io) static site generator and uses the [Bootstrap v4 Blog](https://github.com/alanorth/hugo-theme-bootstrap4-blog) theme built by myself and a small community of volunteers on GitHub.
+
 ## License
 This repository contains the code of [Bootstrap](https://github.com/twbs/bootstrap) which is licensed under the [MIT license](https://github.com/twbs/bootstrap/blob/v4-dev/LICENSE).
 
