@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://picturingjordan.com/2017/03/lose-yourself-wadi-rum/</loc>
+    <lastmod>2017-03-27T11:19:15+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://picturingjordan.com/2017/02/sleep-chalet-dead-sea/</loc>
     <lastmod>2017-02-15T19:06:50+02:00</lastmod>
   </url>
@@ -167,6 +172,12 @@
   </url>
   
   <url>
+    <loc>https://picturingjordan.com/tags/desert/</loc>
+    <lastmod>2017-03-27T11:19:15+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://picturingjordan.com/categories/design/</loc>
     <lastmod>2016-11-07T16:04:14+02:00</lastmod>
     <priority>0</priority>
@@ -210,7 +221,7 @@
   
   <url>
     <loc>https://picturingjordan.com/categories/nature/</loc>
-    <lastmod>2017-02-15T19:06:50+02:00</lastmod>
+    <lastmod>2017-03-27T11:19:15+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -246,13 +257,13 @@
   
   <url>
     <loc>https://picturingjordan.com/</loc>
-    <lastmod>2017-02-15T19:06:50+02:00</lastmod>
+    <lastmod>2017-03-27T11:19:15+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://picturingjordan.com/post/</loc>
-    <lastmod>2017-02-15T19:06:50+02:00</lastmod>
+    <lastmod>2017-03-27T11:19:15+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -270,6 +281,12 @@
   
   <url>
     <loc>https://picturingjordan.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/tags/wadi-rum/</loc>
+    <lastmod>2017-03-27T11:19:15+03:00</lastmod>
     <priority>0</priority>
   </url>
   
