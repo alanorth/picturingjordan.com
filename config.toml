@@ -67,3 +67,5 @@ DefaultContentLanguage = "en"
 [languages.en]
 [languages.bg]
   date_format = "02 Jan 2006"
+
+# vim: ts=2 sw=2 et
