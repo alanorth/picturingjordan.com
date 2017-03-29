@@ -5,4 +5,4 @@ install:
     - go get -v github.com/spf13/hugo
     - git clone https://github.com/alanorth/hugo-theme-bootstrap4-blog.git themes/hugo-theme-bootstrap4-blog
 script:
-  - hugo
+    - hugo
