@@ -1,10 +1,10 @@
 language: go
 go:
-    - 1.8
+  - 1.8
 install:
-    - go get -v github.com/spf13/hugo
-    - git clone https://github.com/alanorth/hugo-theme-bootstrap4-blog.git themes/hugo-theme-bootstrap4-blog
+  - go get -v github.com/spf13/hugo
+  - git clone https://github.com/alanorth/hugo-theme-bootstrap4-blog.git themes/hugo-theme-bootstrap4-blog
 script:
-    - hugo
+  - hugo
 
 # vim: ts=2 sw=2 et
