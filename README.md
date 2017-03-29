@@ -1,4 +1,4 @@
-# Picturing Jordan
+# Picturing Jordan [![Build Status](https://travis-ci.org/alanorth/picturingjordan.com.svg?branch=master)](https://travis-ci.org/alanorth/picturingjordan.com)
 Picturing Jordan is a blog that attempts to share Jordan with the world one picture at a time.
 
 <p align="center">
