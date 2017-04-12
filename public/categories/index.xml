@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Picturing Jordan</title>
+    <link>https://picturingjordan.com/categories/</link>
+    <description>Recent content in Categories on Picturing Jordan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Except where otherwise noted, content on this site is licensed under a &lt;a rel=&#39;license&#39; href=&#39;https://creativecommons.org/licenses/by-sa/4.0/&#39;&gt;Creative Commons Attribution 4.0 International license&lt;/a&gt;.</copyright>
+    <lastBuildDate>Wed, 05 Apr 2017 08:50:44 +0300</lastBuildDate>
+    
+	<atom:link href="https://picturingjordan.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://picturingjordan.com/categories/architecture/</link>
+      <pubDate>Wed, 05 Apr 2017 08:50:44 +0300</pubDate>
+      
+      <guid>https://picturingjordan.com/categories/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://picturingjordan.com/categories/design/</link>
+      <pubDate>Mon, 07 Nov 2016 15:28:23 +0300</pubDate>
+      
+      <guid>https://picturingjordan.com/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://picturingjordan.com/categories/food/</link>
+      <pubDate>Fri, 09 Dec 2016 17:22:59 +0200</pubDate>
+      
+      <guid>https://picturingjordan.com/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature</title>
+      <link>https://picturingjordan.com/categories/nature/</link>
+      <pubDate>Mon, 27 Mar 2017 10:30:42 +0300</pubDate>
+      
+      <guid>https://picturingjordan.com/categories/nature/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

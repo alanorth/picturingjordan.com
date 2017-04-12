@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Greek on Picturing Jordan</title>
-    <link>https://picturingjordan.com/tags/greek/index.xml</link>
+    <link>https://picturingjordan.com/tags/greek/</link>
     <description>Recent content in Greek on Picturing Jordan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Except where otherwise noted, content on this site is licensed under a &lt;a rel=&#39;license&#39; href=&#39;https://creativecommons.org/licenses/by-sa/4.0/&#39;&gt;Creative Commons Attribution 4.0 International license&lt;/a&gt;.</copyright>
-    <atom:link href="https://picturingjordan.com/tags/greek/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Apr 2017 08:50:44 +0300</lastBuildDate>
+    
+	<atom:link href="https://picturingjordan.com/tags/greek/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Greco–Roman Ruins in Jerash</title>
@@ -30,9 +33,7 @@
 
 &lt;p&gt;Jordan&amp;rsquo;s location in the geographical &amp;ldquo;near east&amp;rdquo; has exposed the country to dozens of civilizations over the course of history. Over the last three thousand years alone this region has experienced the coming and going of the Persian, Greek, Roman, Nabataean, Byzantine, and Ottoman — to name a few — empires, the legacies of which are often still visible today.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;The ruins in Jerash are one of those legacies. Complete with arches, colonnades, hippodrome, baths, theaters, temples, and more, Jerash is the most well-preserved of Jordan&amp;rsquo;s Greco–Roman sites.&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
