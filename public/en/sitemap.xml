@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://picturingjordan.com/contact/</loc>
@@ -29,6 +30,16 @@
   <url>
     <loc>https://picturingjordan.com/2016/12/grandeur-petra/</loc>
     <lastmod>2017-01-24T15:27:14+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/2017/01/grandeur-petra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2016/12/grandeur-petra/"
+                />
   </url>
   
   <url>
@@ -54,6 +65,16 @@
   <url>
     <loc>https://picturingjordan.com/2016/10/sheikh-zayed-mosque-pearl-aqaba/</loc>
     <lastmod>2016-10-14T23:13:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/2016/10/sheikh-zayed-mosque-pearl-aqaba/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2016/10/sheikh-zayed-mosque-pearl-aqaba/"
+                />
   </url>
   
   <url>
@@ -64,6 +85,16 @@
   <url>
     <loc>https://picturingjordan.com/2016/09/king-hussein-mosque-night/</loc>
     <lastmod>2016-10-14T23:13:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/2016/10/king-hussein-mosque-night/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2016/09/king-hussein-mosque-night/"
+                />
   </url>
   
   <url>
@@ -104,6 +135,16 @@
   <url>
     <loc>https://picturingjordan.com/about/</loc>
     <lastmod>2017-04-17T12:26:31+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/about/"
+                />
   </url>
   
   <url>
@@ -162,6 +203,16 @@
     <loc>https://picturingjordan.com/categories/</loc>
     <lastmod>2017-04-06T14:55:26+03:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/categories/"
+                />
   </url>
   
   <url>
@@ -282,12 +333,32 @@
     <loc>https://picturingjordan.com/</loc>
     <lastmod>2017-04-16T17:55:29+03:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/"
+                />
   </url>
   
   <url>
     <loc>https://picturingjordan.com/post/</loc>
     <lastmod>2017-04-06T14:55:26+03:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/post/"
+                />
   </url>
   
   <url>
@@ -312,6 +383,16 @@
     <loc>https://picturingjordan.com/tags/</loc>
     <lastmod>2016-11-19T12:36:37+02:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/tags/"
+                />
   </url>
   
   <url>
