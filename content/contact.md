@@ -18,3 +18,5 @@ I'd love to hear your comments, questions, and suggestions — send me a mes
     <input type="text" name="_gotcha" style="display:none" />
     <button type="submit" class="btn btn-primary">Send</button>
 </form>
+
+<br />
