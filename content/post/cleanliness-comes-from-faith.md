@@ -4,7 +4,7 @@ slug = "cleanliness-comes-from-faith"
 author = "Alan Orth"
 date = 2017-07-25T16:15:22+03:00
 images = ["/2017/07/IMG_20161120_143235.jpg"]
-description = "Graffiti in downtown Amman encourages Jordanians to keep their city clean by appealing to their Muslim faith."
+description = "Graffiti in downtown Amman encourages Jordanians to keep the city clean by appealing to their Muslim faith."
 categories = ["Islam"]
 tags = ["Graffiti", "Amman"]
 +++
