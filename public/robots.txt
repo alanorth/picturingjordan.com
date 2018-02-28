@@ -1,3 +1,0 @@
-Sitemap: https://picturingjordan.com/sitemap.xml
-
-User-agent: *
