@@ -15,6 +15,6 @@ These days there isn't much to see of the Greco–Roman city of Pella in northwe
 
 <!--more-->
 
-Human activity in the area dates back to the Bronze Age. Eventually the region came under Greek influence and the city was renamed "Pella" in honor of the birthplace of the famous conquerer Alexander the Great — its namesake being [Pella, Macedonia](https://en.wikipedia.org/wiki/Pella), in what is now northern Greece. The site is currently located near the Arab town of Tabaqat Fahl.
+Human activity in the area dates back to the Bronze Age. Eventually the region came under Greek influence and the city was renamed "Pella" in honor of the birthplace of the famous conqueror Alexander the Great — its namesake being [Pella, Macedonia](https://en.wikipedia.org/wiki/Pella), in what is now northern Greece. The site is currently located near the Arab town of Tabaqat Fahl.
 
 The best way to visit Pella is a hike around the site and its scenic landscape in early Spring. You can find maps, GPS coördinates, and turn-by-turn navigation cues on the [Hiking in Jordan website](https://hiking-in-jordan.com/index.php/hiking-trails/10-hiking-trails-in-jordan/northern-jordan/9-pella-mountain-trail-hiking-in-jordan). Visit your auto mechanic, fix up your brakes, and then take the dramatic descent into the Jordan Valley to see this valuable piece of human history. Anyone staying in Jordan for more than a few days should absolutely add Pella to their list of "must see" attractions in the country.
