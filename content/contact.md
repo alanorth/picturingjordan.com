@@ -2,6 +2,7 @@
 date = "2017-04-16T17:54:50+03:00"
 title = "Contact"
 sharingicons = false
+menu = "navbar"
 +++
 
 I'd love to hear your comments, questions, and suggestions — send me a message using the form below.
