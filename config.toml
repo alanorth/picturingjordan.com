@@ -11,7 +11,7 @@ copyright = "Except where otherwise noted, content on this site is licensed unde
 enableGitInfo = true
 
 [permalinks]
-  post = "/:year/:month/:slug/"
+  posts = "/:year/:month/:slug/"
   page = "/:slug/"
 
 [params]
