@@ -11,7 +11,7 @@ author = "Alan Orth"
 
 {{< figure src="/2018/02/DSC_0005.JPG" title="Remains of the classical basilica of Pella" alt="Remains of the classical basilica of Pella" >}}
 
-These days there isn't much to see of the Greco–Roman city of Pella in northwestern Jordan. Sadly, the ancient ruins here suffer from being slightly smaller, slightly less well-preserved, and slightly less convenient to visit than the similar ruins at [Jerash]({{< relref "posts/greco-roman-ruins-jerash.md" >}}). With a bit of imagination and some historical background, however, they are equally enchanting and even have a unique character of their own.
+These days there isn't much to see of the Greco–Roman city of Pella in northwestern Jordan. Sadly, the ancient ruins here suffer from being slightly smaller, slightly less well-preserved, and slightly less convenient to visit than the similar ruins at [Jerash]({{< ref "greco-roman-ruins-jerash.md" >}}). With a bit of imagination and some historical background, however, they are equally enchanting and even have a unique character of their own.
 
 <!--more-->
 

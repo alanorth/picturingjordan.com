@@ -11,7 +11,7 @@ author = "Alan Orth"
 
 {{< figure src="/2018/07/IMG_20180707_185402.jpg" title="Iconic Armenian Church in Jabal Ashrafieh at Sunset" alt="Church in typical Armenian style with pointy blue roof and the city behind it." >}}
 
-Shortly after moving to Amman [I noticed this unique building]({{< relref "posts/saint-thaddeus-church-amman.md" >}}) on a distant hill and I set out on a sort of scavenger hunt to find it. The walk from downtown to Jabal Ashrafieh is packed with winding streets and steep staircases (some of which go nowhere). To this day the church is one of my favorite landmarks in Amman and I often make the trek there when I'm feeling like getting some exercise and exploring the city. I like to think of it as a pilgrimage — it *is* a religious site after all!
+Shortly after moving to Amman [I noticed this unique building]({{< ref "saint-thaddeus-church-amman.md" >}}) on a distant hill and I set out on a sort of scavenger hunt to find it. The walk from downtown to Jabal Ashrafieh is packed with winding streets and steep staircases (some of which go nowhere). To this day the church is one of my favorite landmarks in Amman and I often make the trek there when I'm feeling like getting some exercise and exploring the city. I like to think of it as a pilgrimage — it *is* a religious site after all!
 
 <!--more-->
 

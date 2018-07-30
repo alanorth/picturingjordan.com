@@ -11,7 +11,7 @@ tags = ["Mosque", "Aqaba"]
 
 {{< figure src="/2016/10/DSC_0024.JPG" title="Beautiful mosque by the sea, surrounded by palm trees" alt="Beautiful mosque by the sea, surrounded by palm trees" >}}
 
-The best way to describe the Sheikh Zayed mosque would be "the pearl of Aqaba." There is a lot to love about this picturesque mosque by the Jordanian seaside, but its crown jewel — to continue the analogy — is the impeccable Arabic calligraphy inlaid in its facade. Sadly, Aqaba itself [isn't much to write home about]({{< relref "posts/aqaba-dirty-disappointing.md" >}}).
+The best way to describe the Sheikh Zayed mosque would be "the pearl of Aqaba." There is a lot to love about this picturesque mosque by the Jordanian seaside, but its crown jewel — to continue the analogy — is the impeccable Arabic calligraphy inlaid in its facade. Sadly, Aqaba itself [isn't much to write home about]({{< ref "aqaba-dirty-disappointing.md" >}}).
 
 <!--more-->
 
