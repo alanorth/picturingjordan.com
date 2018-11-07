@@ -2,13 +2,6 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://picturingjordan.com/ar/sitemap.xml</loc>
-		
-	   	<lastmod>2018-11-07T22:10:09+02:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
 	   	<loc>https://picturingjordan.com/en/sitemap.xml</loc>
 		
 	   	<lastmod>2018-08-20T00:21:48+03:00</lastmod>
@@ -19,6 +12,13 @@
 	   	<loc>https://picturingjordan.com/bg/sitemap.xml</loc>
 		
 	   	<lastmod>2018-07-31T00:58:52+03:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://picturingjordan.com/ar/sitemap.xml</loc>
+		
+	   	<lastmod>2018-11-07T22:58:45+02:00</lastmod>
 		
 	</sitemap>
 	
