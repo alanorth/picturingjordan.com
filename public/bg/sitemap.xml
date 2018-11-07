@@ -37,6 +37,11 @@
     <lastmod>2018-03-09T17:44:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://picturingjordan.com/about/"
                 />
@@ -82,6 +87,11 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://picturingjordan.com/categories/"
                 />
@@ -96,6 +106,11 @@
     <loc>https://picturingjordan.com/bg/</loc>
     <lastmod>2018-03-09T17:44:05+02:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -127,6 +142,11 @@
   <url>
     <loc>https://picturingjordan.com/bg/tags/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

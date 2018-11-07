@@ -19,15 +19,10 @@
       
       <guid>https://picturingjordan.com/2018/02/greco-roman-ruins-pella/</guid>
       <description>&lt;figure&gt;
-    
-        &lt;img src=&#34;https://picturingjordan.com/2018/02/DSC_0005.JPG&#34; alt=&#34;Remains of the classical basilica of Pella&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Remains of the classical basilica of Pella&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
+    &lt;img src=&#34;https://picturingjordan.com/2018/02/DSC_0005.JPG&#34;
+         alt=&#34;Remains of the classical basilica of Pella&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Remains of the classical basilica of Pella&lt;/h4&gt;
+        &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 

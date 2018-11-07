@@ -19,15 +19,10 @@
       
       <guid>https://picturingjordan.com/2017/02/sleep-chalet-dead-sea/</guid>
       <description>&lt;figure&gt;
-    
-        &lt;img src=&#34;https://picturingjordan.com/2017/02/DSC_0052.JPG&#34; alt=&#34;Enjoy the view from the comfort of your hammock&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Enjoy the view from the comfort of your hammock&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
+    &lt;img src=&#34;https://picturingjordan.com/2017/02/DSC_0052.JPG&#34;
+         alt=&#34;Enjoy the view from the comfort of your hammock&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Enjoy the view from the comfort of your hammock&lt;/h4&gt;
+        &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 

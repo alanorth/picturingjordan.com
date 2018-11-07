@@ -19,15 +19,10 @@
       
       <guid>https://picturingjordan.com/2016/11/harvesting-olives-ajloun/</guid>
       <description>&lt;figure&gt;
-    
-        &lt;img src=&#34;https://picturingjordan.com/2016/11/IMG_20161118_130025.jpg&#34; alt=&#34;Freshly picked olives&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Freshly picked olives&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
+    &lt;img src=&#34;https://picturingjordan.com/2016/11/IMG_20161118_130025.jpg&#34;
+         alt=&#34;Freshly picked olives&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Freshly picked olives&lt;/h4&gt;
+        &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 

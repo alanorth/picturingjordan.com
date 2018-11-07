@@ -19,15 +19,10 @@
       
       <guid>https://picturingjordan.com/2016/12/grandeur-petra/</guid>
       <description>&lt;figure&gt;
-    
-        &lt;img src=&#34;https://picturingjordan.com/2016/12/DSC_0029.JPG&#34; alt=&#34;Petra&amp;#39;s &amp;#34;monastery&amp;#34; basking in the golden light just before sunset&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Petra&amp;#39;s &amp;#34;monastery&amp;#34; basking in the golden light just before sunset&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
+    &lt;img src=&#34;https://picturingjordan.com/2016/12/DSC_0029.JPG&#34;
+         alt=&#34;Petra&amp;#39;s &amp;#34;monastery&amp;#34; basking in the golden light just before sunset&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Petra&amp;#39;s &amp;#34;monastery&amp;#34; basking in the golden light just before sunset&lt;/h4&gt;
+        &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 
