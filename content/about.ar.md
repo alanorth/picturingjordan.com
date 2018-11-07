@@ -5,7 +5,7 @@ sharingicons = false
 menu = "navbar"
 +++
 
-<p style='direction: rtl'>
+<p style='direction: rtl; text-align: right;'>
 انا إسمي أَلين، من كلفورنيا. ساكن في عَمان. أندي أربعة بلَق:
 </p>
 
