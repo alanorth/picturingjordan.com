@@ -6,11 +6,12 @@ install:
   - git clone https://github.com/gohugoio/hugo.git $HOME/src/hugo
   - cd $HOME/src/hugo
   - go install
-before_script: git clone https://github.com/alanorth/hugo-theme-bootstrap4-blog.git themes/hugo-theme-bootstrap4-blog
+before_script:
+  - cd $TRAVIS_HOME/gopath/src/github.com/alanorth/picturingjordan.com
+  - git clone https://github.com/alanorth/hugo-theme-bootstrap4-blog.git themes/hugo-theme-bootstrap4-blog
 script:
   - pwd
   - ls
-  - cd $TRAVIS_BUILD_DIR/hugo-theme-bootstrap4-blog
   - hugo
 sudo: false
 dist: trusty
