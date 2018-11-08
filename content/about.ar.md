@@ -6,10 +6,12 @@ menu = "navbar"
 +++
 
 <p style='direction: rtl; text-align: right;'>
-انا إسمي أَلين، من كلفورنيا. ساكن في عَمان. أندي أربعة بلَق:
+انا إسمي أَلين، من كالفورنيا. ساكن في عَمان. عندي أربعة بلَق:
 </p>
 
-- [Alan in Kenya](https://alaninkenya.org)
-- [Mjanja ni Uhai](https://mjanja.ch)
-- [English Bulgaria](https://englishbulgaria.net)
-- [Picturing Jordan](https://picturingjordan.com)
+<ul style='direction: rtl; text-align: right;'>
+  <li><a href='https://alaninkenya.org'>الين في كينيا</a></li>
+  <li><a href='https://englishbulgaria.net'>الإنجليزية بلغاريا</a></li>
+  <li><a href='https://mjanja.ch'>Ujanja ni Uhai</a></li>
+  <li><a href='https://picturingjordan.com'>تصوير الأردن</a></li>
+</ul>
