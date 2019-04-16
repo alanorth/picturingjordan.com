@@ -6,7 +6,7 @@ menu = "navbar"
 +++
 
 <p style='direction: rtl; text-align: right;'>
-انا إسمي أَلين، من كالفورنيا. ساكن في عَمان. عندي أربعة بلَق:
+انا إسمي أَلين، من كالفورنيا. ساكن في عَمّان. عندي أربعة بلَق:
 </p>
 
 <ul style='direction: rtl; text-align: right;'>
