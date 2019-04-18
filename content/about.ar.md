@@ -1,13 +1,13 @@
 +++
 date = "2018-11-07T22:05:27+02:00"
-title = "حول"
+title = "عن المُدَوَّنَة"
 sharingicons = false
 menu = "navbar"
-author = "أَلين"
+author = "أَلِن"
 +++
 
 <p style='direction: rtl; text-align: right;'>
-انا إسمي أَلين، من كالفورنيا. ساكن في عَمّان. عندي أربعة بلَق:
+أنا أَلِن من كالفورنيا، ساكن في عَمّان، عندي أربع مُدَوَّنَات:
 </p>
 
 <ul style='direction: rtl; text-align: right;'>
