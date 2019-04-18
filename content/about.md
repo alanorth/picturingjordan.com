@@ -10,4 +10,4 @@ Alan lived and worked in Kenya for eight years, first as a volunteer teaching co
 
 After spending some time living in (and [blogging about](https://englishbulgaria.net)) Bulgaria, he finds himself living in Jordan. These are his stories.
 
-You can [contact me]({{< relref "contact.md" >}}).
+You can [contact him]({{< relref "contact.md" >}}).
