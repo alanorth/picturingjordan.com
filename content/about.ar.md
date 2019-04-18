@@ -3,6 +3,7 @@ date = "2018-11-07T22:05:27+02:00"
 title = "حول"
 sharingicons = false
 menu = "navbar"
+author = "أَلين"
 +++
 
 <p style='direction: rtl; text-align: right;'>
