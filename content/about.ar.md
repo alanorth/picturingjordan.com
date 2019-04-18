@@ -7,13 +7,9 @@ author = "أَلِن"
 images = ["/2019/04/2018-04-28-alan-wadi-assal.jpg"]
 +++
 
-<p style='direction: rtl; text-align: right;'>
 أنا أَلِن من كالفورنيا، ساكن في عَمّان، عندي أربع مُدَوَّنَات:
-</p>
 
-<ul style='direction: rtl; text-align: right;'>
-  <li><a href='https://alaninkenya.org'>الين في كينيا</a></li>
-  <li><a href='https://englishbulgaria.net'>الإنجليزية بلغاريا</a></li>
-  <li><a href='https://mjanja.ch'>Ujanja ni Uhai</a></li>
-  <li><a href='https://picturingjordan.com'>تصوير الأردن</a></li>
-</ul>
+- [الين في كينيا](https://alaninkenya.org)
+- [الإنجليزية بلغاريا](https://englishbulgaria.net)
+- [Ujanja ni Uhai](https://mjanja.ch)
+- [تصوير الأردن](https://picturingjordan.com)
