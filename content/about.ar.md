@@ -4,6 +4,7 @@ title = "عن المُدَوَّنَة"
 sharingicons = false
 menu = "navbar"
 author = "أَلِن"
+images = ["/2019/04/2018-04-28-alan-wadi-assal.jpg"]
 +++
 
 <p style='direction: rtl; text-align: right;'>
