@@ -68,5 +68,6 @@ DefaultContentLanguage = "en"
 [languages.bg]
   date_format = "02 Jan 2006"
 [languages.ar]
+  author = "أَلين"
 
 # vim: ts=2 sw=2 et
