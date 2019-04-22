@@ -1,7 +1,7 @@
 +++
 title = "النظافة من الايمان"
 slug = "cleanliness-comes-from-faith"
-author = "بيان"
+author = "بيان أبِد"
 date = 2019-04-18T15:37:22+03:00
 images = ["/2017/07/IMG_20161120_143235.jpg"]
 description = "هناك حقيقة مثبتة منذ زمن طويل وهي أن"
