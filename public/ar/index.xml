@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Picturing Jordan</title>
+    <link>https://picturingjordan.com/ar/</link>
+    <description>Recent content on Picturing Jordan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Except where otherwise noted, content on this site is licensed under a &lt;a rel=&#39;license&#39; href=&#39;https://creativecommons.org/licenses/by-sa/4.0/&#39;&gt;Creative Commons Attribution 4.0 International license&lt;/a&gt;.</copyright>
+    <lastBuildDate>Wed, 07 Nov 2018 22:05:27 +0200</lastBuildDate>
+    
+	<atom:link href="https://picturingjordan.com/ar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>عن المُدَوَّنَة</title>
+      <link>https://picturingjordan.com/ar/about/</link>
+      <pubDate>Wed, 07 Nov 2018 22:05:27 +0200</pubDate>
+      
+      <guid>https://picturingjordan.com/ar/about/</guid>
+      <description>أنا أَلِن من كالفورنيا، ساكن في عَمّان، عندي أربع مُدَوَّنَات:
+ الين في كينيا الإنجليزية بلغاريا Ujanja ni Uhai تصوير الأردن  </description>
+    </item>
+    
+  </channel>
+</rss>
