@@ -3,48 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://picturingjordan.com/ar/</loc>
-    <lastmod>2019-04-18T22:24:43+03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://picturingjordan.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://picturingjordan.com/bg/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://picturingjordan.com/ar/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://picturingjordan.com/ar/about/</loc>
-    <lastmod>2019-04-18T22:24:43+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://picturingjordan.com/bg/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://picturingjordan.com/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://picturingjordan.com/ar/about/"
-                />
-  </url>
-  
-  <url>
     <loc>https://picturingjordan.com/ar/categories/</loc>
+    <lastmod>2019-05-16T18:40:57+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -64,7 +24,50 @@
   </url>
   
   <url>
+    <loc>https://picturingjordan.com/ar/</loc>
+    <lastmod>2019-05-16T18:40:57+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/posts/</loc>
+    <lastmod>2019-05-16T18:40:57+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/posts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://picturingjordan.com/ar/tags/</loc>
+    <lastmod>2019-05-16T18:40:57+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -80,6 +83,59 @@
                 rel="alternate"
                 hreflang="ar"
                 href="https://picturingjordan.com/ar/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/categories/%D8%A5%D8%B3%D9%84%D8%A7%D9%85/</loc>
+    <lastmod>2019-05-16T18:40:57+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/2019/04/cleanliness-comes-from-faith/</loc>
+    <lastmod>2019-05-16T18:40:57+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2017/07/cleanliness-comes-from-faith/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/04/cleanliness-comes-from-faith/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/tags/%D8%AC%D8%B1%D8%A7%D9%81%D9%8A%D8%AA%D9%8A/</loc>
+    <lastmod>2019-05-16T18:40:57+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/tags/%D8%B9%D9%85%D9%91%D9%8E%D8%A7%D9%86/</loc>
+    <lastmod>2019-05-16T18:40:57+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/about/</loc>
+    <lastmod>2019-04-18T22:24:43+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/about/"
                 />
   </url>
   

@@ -25,13 +25,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="bg"
-                href="https://picturingjordan.com/bg/categories/"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://picturingjordan.com/ar/categories/"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -79,6 +79,11 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="bg"
                 href="https://picturingjordan.com/bg/posts/"
                 />
@@ -95,13 +100,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="bg"
-                href="https://picturingjordan.com/bg/tags/"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://picturingjordan.com/ar/tags/"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -153,6 +158,16 @@
   <url>
     <loc>https://picturingjordan.com/2017/07/cleanliness-comes-from-faith/</loc>
     <lastmod>2018-03-09T18:13:37+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/04/cleanliness-comes-from-faith/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2017/07/cleanliness-comes-from-faith/"
+                />
   </url>
   
   <url>
