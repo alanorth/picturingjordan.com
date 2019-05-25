@@ -2,8 +2,8 @@
 title = "الآثار اليُونانِيَّة الرُّومانِيَّة في بيلا"
 date = 2019-05-23T23:55:29+03:00
 slug = "greco-roman-ruins-pella"
-tags = ["بيلا","Greek","Roman"]
-categories = ["Architecture"]
+tags = ["بيلا","اليونان","الرومان"]
+categories = ["فن العمارة"]
 images = ["/2018/02/DSC_0005.JPG"]
 description = "Relatively unknown and only slightly less impressive than other sites in the region, Pella is enchanting and has a character of its own."
 author = "Alan Orth"
