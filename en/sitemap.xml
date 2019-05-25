@@ -119,6 +119,16 @@
     <loc>https://picturingjordan.com/categories/architecture/</loc>
     <lastmod>2018-07-31T00:58:52+03:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/categories/architecture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/categories/architecture/"
+                />
   </url>
   
   <url>
@@ -135,12 +145,32 @@
   <url>
     <loc>https://picturingjordan.com/2018/02/greco-roman-ruins-pella/</loc>
     <lastmod>2018-07-31T00:58:52+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/05/greco-roman-ruins-pella/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2018/02/greco-roman-ruins-pella/"
+                />
   </url>
   
   <url>
     <loc>https://picturingjordan.com/tags/greek/</loc>
     <lastmod>2018-07-31T00:58:52+03:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/tags/greek/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/tags/greek/"
+                />
   </url>
   
   <url>
@@ -153,6 +183,16 @@
     <loc>https://picturingjordan.com/tags/roman/</loc>
     <lastmod>2018-07-31T00:58:52+03:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/tags/roman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/tags/roman/"
+                />
   </url>
   
   <url>
