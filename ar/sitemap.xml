@@ -3,24 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://picturingjordan.com/ar/categories/architecture/</loc>
-    <lastmod>2019-05-25T12:47:56+03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://picturingjordan.com/categories/architecture/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://picturingjordan.com/ar/categories/architecture/"
-                />
-  </url>
-  
-  <url>
     <loc>https://picturingjordan.com/ar/categories/</loc>
-    <lastmod>2019-05-25T12:47:56+03:00</lastmod>
+    <lastmod>2019-05-25T22:59:22+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -40,24 +24,8 @@
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/ar/tags/greek/</loc>
-    <lastmod>2019-05-25T12:47:56+03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://picturingjordan.com/tags/greek/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://picturingjordan.com/ar/tags/greek/"
-                />
-  </url>
-  
-  <url>
     <loc>https://picturingjordan.com/ar/</loc>
-    <lastmod>2019-05-25T12:47:56+03:00</lastmod>
+    <lastmod>2019-05-25T22:59:22+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -78,7 +46,7 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/posts/</loc>
-    <lastmod>2019-05-25T12:47:56+03:00</lastmod>
+    <lastmod>2019-05-25T22:59:22+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -98,24 +66,8 @@
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/ar/tags/roman/</loc>
-    <lastmod>2019-05-25T12:47:56+03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://picturingjordan.com/tags/roman/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://picturingjordan.com/ar/tags/roman/"
-                />
-  </url>
-  
-  <url>
     <loc>https://picturingjordan.com/ar/tags/</loc>
-    <lastmod>2019-05-25T12:47:56+03:00</lastmod>
+    <lastmod>2019-05-25T22:59:22+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -136,7 +88,7 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/2019/05/greco-roman-ruins-pella/</loc>
-    <lastmod>2019-05-25T12:47:56+03:00</lastmod>
+    <lastmod>2019-05-25T22:59:22+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -150,8 +102,26 @@
   </url>
   
   <url>
+    <loc>https://picturingjordan.com/ar/tags/%D8%A7%D9%84%D8%B1%D9%88%D9%85%D8%A7%D9%86/</loc>
+    <lastmod>2019-05-25T22:59:22+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/tags/%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%86/</loc>
+    <lastmod>2019-05-25T22:59:22+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://picturingjordan.com/ar/tags/%D8%A8%D9%8A%D9%84%D8%A7/</loc>
-    <lastmod>2019-05-25T12:47:56+03:00</lastmod>
+    <lastmod>2019-05-25T22:59:22+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/categories/%D9%81%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D8%A9/</loc>
+    <lastmod>2019-05-25T22:59:22+03:00</lastmod>
     <priority>0</priority>
   </url>
   
