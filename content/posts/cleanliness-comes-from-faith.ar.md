@@ -6,7 +6,7 @@ date = 2019-04-18T15:37:22+03:00
 images = ["/2017/07/IMG_20161120_143235.jpg"]
 description = "جِدَارِيَّة تُنَاشِدُ المُؤْمِنِين في وَسْطِ البَلْدَةِ عَمَّان"
 categories = ["إسلام"]
-tags = ["جرافيتي", "عمَّان"]
+tags = ["جرافيتي", "عمّان"]
 +++
 
 {{< figure src="/2017/07/IMG_20161120_143235.jpg" title="جِدَارِيَّة تُنَاشِدُ المُؤْمِنِين في وَسْطِ البَلْدَةِ عَمَّان" alt="Graffiti with Arabic inscription depicting someone putting trash in a trash can" >}}
