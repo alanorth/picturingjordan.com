@@ -1,13 +1,12 @@
 +++
 title = "شراء أقمشة بدويّة في عمّان"
-date = 2019-06-21T21:38:43+03:00
+date = 2019-06-25T09:08:43+03:00
 slug = "buying-bedouin-fabric-amman"
 images = ["/2018/08/IMG_20180407_124628.jpg"]
 description = "This unique and colorful Bedouin fabric is also cheap and durable."
 categories = ["التصميم"]
 tags = ["عمّان", "بدوي", "قماش"]
 author = "ألِن أورث"
-draft= true
 +++
 
 {{< figure src="/2018/08/IMG_20180407_124628.jpg" title="أنسجة بدويّة مُلوّنة للبيع في وسط عمّان" alt="Several reams of colorful fabric stacked vertically in a shop in downtown Amman." >}}
