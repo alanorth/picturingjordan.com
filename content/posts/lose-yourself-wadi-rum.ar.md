@@ -4,10 +4,9 @@ tags = ["وادِي رَم","صَحْراءِ"]
 categories = ["طبيعة"]
 description = "Lose yourself in the endless desert expanses of Wadi Rum."
 images = ["/2017/02/DSC_0141.JPG"]
-date = "2019-06-29T21:40:42+03:00"
+date = "2019-07-05T22:35:42+03:00"
 author = "ألِن أورث"
 slug = "lose-yourself-wadi-rum"
-draft = true
 +++
 
 {{< figure src="/2017/02/DSC_0141.JPG" title="رَجُل بَدَوِيّ مع جِمالٍ في وَادِي رم" alt="Bedouin with camels in Wadi Rum" >}}
