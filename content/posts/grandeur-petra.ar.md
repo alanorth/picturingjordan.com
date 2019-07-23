@@ -9,7 +9,6 @@ images = [
 ]
 description = "Petra is not only grander than we suppose, but grander than we can suppose."
 categories = ["فنّ العمارة"]
-draft = true
 +++
 
 {{< figure src="/2016/12/DSC_0029.JPG" title="دَيْر البَتْرَاء  يَتَمَتَّعُ بالنُّورالذَّهَبِيّ قُبَيْل غُرُوبِ الشَّمْس" >}}
