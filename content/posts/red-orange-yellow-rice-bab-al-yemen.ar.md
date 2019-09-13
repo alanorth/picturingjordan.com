@@ -9,7 +9,6 @@ categories = ["طعام"]
 tags = [ "اليمن", "عمّان"]
 author = "ألِن أورث"
 slug = "red-orange-yellow-rice-bab-al-yemen"
-draft = true
 +++
 
 {{< figure src="/2016/11/IMG_20161110_220626.jpg" title="كُلّ أَنْواع الأَرُز مُتعدِّد الأَلْوَان الّذي يُمْكِنُكَ تَنَاوُله" >}}
