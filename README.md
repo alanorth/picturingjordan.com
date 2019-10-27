@@ -20,4 +20,4 @@ $ git subtree push --prefix=public origin public
 ## License
 This repository contains the code of [Bootstrap](https://github.com/twbs/bootstrap) which is licensed under the [MIT license](https://github.com/twbs/bootstrap/blob/v4-dev/LICENSE).
 
-Otherwise, the contents are licensed under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+Otherwise, the contents are licensed under the [CC-BY-SA-4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
