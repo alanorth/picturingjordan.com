@@ -6,7 +6,7 @@ tags = ["بيلا","اليونان","الرومان"]
 categories = ["فن العمارة"]
 images = ["/2018/02/DSC_0005.JPG"]
 description = "Relatively unknown and only slightly less impressive than other sites in the region, Pella is enchanting and has a character of its own."
-author = "Alan Orth"
+author = "ألِن أورث"
 +++
 
 {{< figure src="/2018/02/DSC_0005.JPG" title="بَقَايا الكَاتِدرائيّة بيلا القَدِيمة" alt="بَقَايا الكَاتِدرائيّة بيلا القَدِيمة" >}}

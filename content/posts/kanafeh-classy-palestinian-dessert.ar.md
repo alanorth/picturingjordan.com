@@ -8,7 +8,7 @@ description = "There is a thing called kanafeh and you must eat it."
 categories = ["طعام"]
 tags = ["كنافة"]
 date = "2019-08-14T20:41:30+03:00"
-author = "Alan Orth"
+author = "ألِن أورث"
 +++
 
 {{< figure src="/2016/12/IMG_20161127_212229.jpg" title="قِطْعَةٌ مِنَ الكُنافة في مَطْعَمٍ في عَمَّان" >}}
