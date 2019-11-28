@@ -7,7 +7,6 @@ categories = ["الطّبيعة"]
 images = ["/2017/02/DSC_0052.JPG"]
 description = "Take in the Dead Sea from your personal hammock at the Wadi Mujib chalets."
 author = "ألِن أورث"
-draft = true
 +++
 
 {{< figure src="/2017/02/DSC_0052.JPG" title="اِسْتَمْتِع بالمَنْظَرِ على أُرْجُوحَتِك المُرِيحَة" >}}
