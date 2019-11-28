@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/categories/</loc>
-    <lastmod>2019-11-16T19:10:01+02:00</lastmod>
+    <lastmod>2019-11-28T09:51:27+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -24,7 +24,7 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/</loc>
-    <lastmod>2019-11-16T19:10:01+02:00</lastmod>
+    <lastmod>2019-11-28T09:51:27+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,7 +44,7 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/posts/</loc>
-    <lastmod>2019-11-16T19:10:01+02:00</lastmod>
+    <lastmod>2019-11-28T09:51:27+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,7 +64,7 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/tags/</loc>
-    <lastmod>2019-11-16T19:10:01+02:00</lastmod>
+    <lastmod>2019-11-28T09:51:27+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -79,6 +79,31 @@
                 rel="alternate"
                 hreflang="ar"
                 href="https://picturingjordan.com/ar/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/tags/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D9%85%D9%8A%D9%91%D8%AA/</loc>
+    <lastmod>2019-11-28T09:51:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/categories/%D8%A7%D9%84%D8%B7%D9%91%D8%A8%D9%8A%D8%B9%D8%A9/</loc>
+    <lastmod>2019-11-28T09:51:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/2019/11/sleep-chalet-dead-sea/</loc>
+    <lastmod>2019-11-28T09:51:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2017/02/sleep-chalet-dead-sea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/11/sleep-chalet-dead-sea/"
                 />
   </url>
   
