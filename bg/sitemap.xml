@@ -17,6 +17,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="bg"
                 href="https://picturingjordan.com/bg/"
                 />
@@ -49,6 +54,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://picturingjordan.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -89,6 +99,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://picturingjordan.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/tags/"
                 />
     <xhtml:link
                 rel="alternate"
