@@ -10,7 +10,7 @@ description = "Alan practices night photography on the largest mosque in Amman."
 images = ["/2016/09/DSC_0010.jpg"]
 +++
 
-{{< figure src="/2016/09/DSC_0010.jpg" title="Amman's King Hussein mosque at night" alt="Amman's King Hussein mosque at night" >}}
+{{< figure src="/2016/09/DSC_0010.jpg" title="Amman's King Hussein mosque at night" >}}
 
 The [King Hussein mosque](https://en.wikipedia.org/wiki/King_Hussein_Mosque) was built in 2005 and is the largest mosque in Jordan. I haven't visited it yet, but I've spent quite a few evenings admiring it from a balcony in the *Khalda* neighborhood of West Amman.
 

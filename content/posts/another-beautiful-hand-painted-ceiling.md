@@ -10,7 +10,7 @@ tags = ["Painting", "Art"]
 images = ["/2016/09/DSC_0008.jpg"]
 +++
 
-{{< figure src="/2016/09/DSC_0008.jpg" title="A colorful floral pattern pops out of the ceiling" alt="A hand-painted floral pattern on wooden panels on the ceiling" >}}
+{{< figure src="/2016/09/DSC_0008.jpg" title="A hand-painted floral pattern on wooden panels on the ceiling" >}}
 
 Another day, another exquisite, hand-painted ceiling in Amman. Just like the [other hand-painted wood ceiling]({{< ref "beautiful-hand-painted-woodwork.md" >}}) I posted about two weeks ago, the work was done by an old Syrian man. This one is actually in my flat, and I may or may not have taken this picture while laying on my back on the living room floor.
 
