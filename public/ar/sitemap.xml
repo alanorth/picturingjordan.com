@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/categories/</loc>
-    <lastmod>2019-11-28T09:51:27+02:00</lastmod>
+    <lastmod>2019-12-13T10:49:35+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/</loc>
-    <lastmod>2019-11-28T09:51:27+02:00</lastmod>
+    <lastmod>2019-12-13T10:49:35+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/posts/</loc>
-    <lastmod>2019-11-28T09:51:27+02:00</lastmod>
+    <lastmod>2019-12-13T10:49:35+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -74,7 +74,7 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/tags/</loc>
-    <lastmod>2019-11-28T09:51:27+02:00</lastmod>
+    <lastmod>2019-12-13T10:49:35+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -94,6 +94,36 @@
                 rel="alternate"
                 hreflang="ar"
                 href="https://picturingjordan.com/ar/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/categories/%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D8%A9/</loc>
+    <lastmod>2019-12-13T10:49:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/tags/%D8%B9%D9%85%D9%91%D8%A7%D9%86/</loc>
+    <lastmod>2019-12-13T10:49:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/tags/%D9%83%D9%86%D9%8A%D8%B3%D8%A9/</loc>
+    <lastmod>2019-12-13T10:49:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/2019/12/saint-thaddeus-church-sunset/</loc>
+    <lastmod>2019-12-13T10:49:35+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2018/07/saint-thaddeus-church-sunset/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/12/saint-thaddeus-church-sunset/"
                 />
   </url>
   
@@ -193,11 +223,6 @@
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/ar/categories/%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D8%A9/</loc>
-    <lastmod>2019-09-14T17:42:31+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://picturingjordan.com/ar/2019/08/red-orange-yellow-rice-bab-al-yemen/</loc>
     <lastmod>2019-10-27T13:31:40+02:00</lastmod>
     <xhtml:link
@@ -220,11 +245,6 @@
   <url>
     <loc>https://picturingjordan.com/ar/categories/%D8%B7%D8%B9%D8%A7%D9%85/</loc>
     <lastmod>2019-10-27T23:32:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://picturingjordan.com/ar/tags/%D8%B9%D9%85%D9%91%D8%A7%D9%86/</loc>
-    <lastmod>2019-10-27T13:31:40+02:00</lastmod>
   </url>
   
   <url>
