@@ -7,7 +7,6 @@ description = "One of the most unique buildings in Amman is even more so at suns
 categories = ["العمارة"]
 tags = ["كنيسة", "عمّان"]
 author = "ألِن أورث"
-draft = true
 +++
 
 {{< figure src="/2018/07/IMG_20180707_185402.jpg" title="الكنيسة الأرمنية الأيقونية في جبل الأشرفية عند الغروب" alt="Church in typical Armenian style with pointy blue roof and the city behind it." >}}
