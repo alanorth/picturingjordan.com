@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/categories/</loc>
-    <lastmod>2019-12-13T10:49:35+02:00</lastmod>
+    <lastmod>2019-12-22T09:50:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/</loc>
-    <lastmod>2019-12-13T10:49:35+02:00</lastmod>
+    <lastmod>2019-12-22T09:50:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/posts/</loc>
-    <lastmod>2019-12-13T10:49:35+02:00</lastmod>
+    <lastmod>2019-12-22T09:50:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -74,7 +74,7 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/tags/</loc>
-    <lastmod>2019-12-13T10:49:35+02:00</lastmod>
+    <lastmod>2019-12-22T09:50:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -95,6 +95,66 @@
                 hreflang="ar"
                 href="https://picturingjordan.com/ar/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/tags/%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AC%D8%AF/</loc>
+    <lastmod>2019-12-22T09:50:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/categories/%D8%B9%D9%85%D8%A7%D8%B1%D8%A9/</loc>
+    <lastmod>2019-12-22T09:50:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/tags/%D8%B9%D9%85%D8%A7%D9%86/</loc>
+    <lastmod>2019-12-22T09:50:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/2019/12/king-hussein-mosque-night/</loc>
+    <lastmod>2019-12-22T09:50:03+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/2016/10/king-hussein-mosque-night/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2016/09/king-hussein-mosque-night/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/12/king-hussein-mosque-night/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/2019/12/contemporary-arab-design-jrf-showroom/</loc>
+    <lastmod>2019-12-22T09:50:03+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2016/11/contemporary-arab-design-jrf-showroom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/12/contemporary-arab-design-jrf-showroom/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/categories/%D8%AA%D8%B5%D9%85%D9%8A%D9%85/</loc>
+    <lastmod>2019-12-22T09:50:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/tags/%D9%85%D8%AC%D8%AA%D9%85%D8%B9/</loc>
+    <lastmod>2019-12-22T09:50:03+02:00</lastmod>
   </url>
   
   <url>
