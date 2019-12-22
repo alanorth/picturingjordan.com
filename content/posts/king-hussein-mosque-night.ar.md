@@ -8,7 +8,6 @@ categories = ["عمارة"]
 tags = ["عمان", "المساجد"]
 description = "Alan practices night photography on the largest mosque in Amman."
 images = ["/2016/09/DSC_0010.jpg"]
-draft = true
 +++
 
 {{< figure src="/2016/09/DSC_0010.jpg" title="مَسْجِدُ المَلِك حُسَيْن في عمّان لَيْلاً" >}}

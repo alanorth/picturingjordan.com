@@ -7,7 +7,6 @@ description = "Contemporary Arab design is on display at the Jordan River Founda
 categories = ["تصميم"]
 tags = ["عمان","مجتمع"]
 images = ["/2016/11/IMG_20161104_130900.jpg"]
-draft = true
 +++
 
 {{< figure src="/2016/11/IMG_20161104_130900.jpg" title="تَصْمِيمٌ رِيفيٌّ بَسِيطٌ يَدْمِجُ قِطَعاً تَقْلِيديَّةً بِأَسالِيبَ حَدِيثَةٍ" >}}
