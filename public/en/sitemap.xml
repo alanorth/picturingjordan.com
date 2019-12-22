@@ -425,6 +425,16 @@
   <url>
     <loc>https://picturingjordan.com/2016/11/contemporary-arab-design-jrf-showroom/</loc>
     <lastmod>2019-12-18T22:12:19+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/12/contemporary-arab-design-jrf-showroom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2016/11/contemporary-arab-design-jrf-showroom/"
+                />
   </url>
   
   <url>
@@ -465,6 +475,11 @@
   <url>
     <loc>https://picturingjordan.com/2016/09/king-hussein-mosque-night/</loc>
     <lastmod>2019-12-08T14:04:37+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/12/king-hussein-mosque-night/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
