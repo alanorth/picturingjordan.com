@@ -11,7 +11,7 @@ author = "Alan Orth"
 
 {{< figure src="/2017/04/DSC_0143.jpg" title="Row of columns at the Oval Forum in Jerash" alt="Row of columns at the Oval Forum in Jerash" >}}
 
-Jordan's location in the geographical "near east" has exposed the country to dozens of civilizations over the course of history. Over the last three thousand years alone this region has experienced the coming and going of the Persian, Greek, Roman, Nabataean, Byzantine, and Ottoman — to name a few — empires, the legacies of which are often still visible today.
+Jordan's location in the geographical "near east" has exposed the country to dozens of civilizations over the course of history. Over the last three thousand years alone this region has experienced the coming and going of the Persian, Greek, Nabataean, Roman, Byzantine, Arab, and Ottoman — to name a few — empires, the legacies of which are often still visible today.
 
 <!--more-->
 
