@@ -4,32 +4,17 @@
   
   <url>
     <loc>https://picturingjordan.com/tags/amman/</loc>
-    <lastmod>2019-12-18T22:12:19+02:00</lastmod>
+    <lastmod>2020-01-16T09:55:53+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/tags/bedouin/</loc>
-    <lastmod>2018-08-20T00:21:48+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://picturingjordan.com/2018/08/buying-bedouin-fabric-amman/</loc>
-    <lastmod>2018-08-20T00:21:48+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://picturingjordan.com/ar/2019/06/buying-bedouin-fabric-amman/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://picturingjordan.com/2018/08/buying-bedouin-fabric-amman/"
-                />
+    <loc>https://picturingjordan.com/categories/architecture/</loc>
+    <lastmod>2020-01-16T09:55:53+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://picturingjordan.com/categories/</loc>
-    <lastmod>2020-01-13T12:50:12+02:00</lastmod>
+    <lastmod>2020-01-16T09:55:53+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -53,18 +38,13 @@
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/categories/design/</loc>
-    <lastmod>2019-12-18T22:12:19+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://picturingjordan.com/tags/fabric/</loc>
-    <lastmod>2018-08-20T00:21:48+03:00</lastmod>
+    <loc>https://picturingjordan.com/2020/01/iconic-roman-ruins-amman/</loc>
+    <lastmod>2020-01-16T09:55:53+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://picturingjordan.com/</loc>
-    <lastmod>2020-01-13T12:50:12+02:00</lastmod>
+    <lastmod>2020-01-16T09:55:53+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -89,7 +69,7 @@
   
   <url>
     <loc>https://picturingjordan.com/posts/</loc>
-    <lastmod>2020-01-13T12:50:12+02:00</lastmod>
+    <lastmod>2020-01-16T09:55:53+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -108,8 +88,13 @@
   </url>
   
   <url>
+    <loc>https://picturingjordan.com/tags/roman/</loc>
+    <lastmod>2020-01-16T09:55:53+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://picturingjordan.com/tags/</loc>
-    <lastmod>2020-01-13T12:50:12+02:00</lastmod>
+    <lastmod>2020-01-16T09:55:53+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -133,8 +118,33 @@
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/categories/architecture/</loc>
-    <lastmod>2020-01-13T12:50:12+02:00</lastmod>
+    <loc>https://picturingjordan.com/tags/bedouin/</loc>
+    <lastmod>2018-08-20T00:21:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/2018/08/buying-bedouin-fabric-amman/</loc>
+    <lastmod>2018-08-20T00:21:48+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/06/buying-bedouin-fabric-amman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2018/08/buying-bedouin-fabric-amman/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/categories/design/</loc>
+    <lastmod>2019-12-18T22:12:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/tags/fabric/</loc>
+    <lastmod>2018-08-20T00:21:48+03:00</lastmod>
   </url>
   
   <url>
@@ -180,11 +190,6 @@
   <url>
     <loc>https://picturingjordan.com/tags/pella/</loc>
     <lastmod>2018-07-31T00:58:52+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://picturingjordan.com/tags/roman/</loc>
-    <lastmod>2020-01-13T12:50:12+02:00</lastmod>
   </url>
   
   <url>
