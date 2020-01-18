@@ -5,7 +5,7 @@ title = "Iconic Roman Ruins in Amman"
 slug = "iconic-roman-ruins-amman"
 tags = ["Amman","Roman"]
 categories = ["Architecture"]
-description = "The ruins of the citadel's Roman Temple of Hercules are a literal and figurative icon of Amman."
+description = "The ruins of the citadel's Roman Temple of Hercules are an icon of Amman."
 author = "Alan Orth"
 +++
 
@@ -15,7 +15,7 @@ Jordan's location in the geographical "near east" has exposed it to dozens of ci
 
 <!--more-->
 
-One prominent example of Amman's Roman legacy is the ruins of the [Temple of Hercules](https://en.wikipedia.org/wiki/Temple_of_Hercules_(Amman)) atop _Jabal Al Qalʿa_ — the "hill of the castle" (or citadel), one of the city's original seven hills. Towering above the bustling center of downtown Amman, these few surviving pillars are a literal and figurative icon of the city. From here you can also see other notable Roman-era sights such as the [Theater](https://en.wikipedia.org/wiki/Roman_Theater_(Amman)), [Odeon](https://en.wikipedia.org/wiki/Odeon_theater_(Jordan)), and [Nymphaeum](https://en.wikipedia.org/wiki/Nymphaeum_(Amman)), as well as contemporary landmarks like the Abu Darwish and Husseini mosques.
+One prominent example of Amman's Roman legacy is the ruins of the [Temple of Hercules](https://en.wikipedia.org/wiki/Temple_of_Hercules_(Amman)) atop _Jabal Al Qalʿa_ — the "hill of the castle" (or citadel), one of the city's original seven hills. Towering above the bustling center of downtown Amman, these few surviving pillars are a literal icon of the city. From here you can also see other notable Roman-era sights such as the [Theater](https://en.wikipedia.org/wiki/Roman_Theater_(Amman)), [Odeon](https://en.wikipedia.org/wiki/Odeon_theater_(Jordan)), and [Nymphaeum](https://en.wikipedia.org/wiki/Nymphaeum_(Amman)), as well as contemporary landmarks like the Abu Darwish and Husseini mosques.
 
 Other attractions at the site include partial remains of the [Umayyad Palace](https://en.wikipedia.org/wiki/Umayyad_Palace) and a museum exhibiting artifacts from human activity in the area—you can see tools, pottery, coins, etc dating back to the Iron, Bronze, and Neolithic ages.
 
