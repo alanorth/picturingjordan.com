@@ -1,7 +1,7 @@
 +++
 title = "اِنسَ نفسَك في وَادِي رَم"
 tags = ["وادِي رَم","صَحْراء"]
-categories = ["طبيعة"]
+categories = ["الطّبيعة"]
 description = "Lose yourself in the endless desert expanses of Wadi Rum."
 images = ["/2017/02/DSC_0141.JPG"]
 date = "2019-07-05T22:35:42+03:00"
