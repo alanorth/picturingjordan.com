@@ -15,4 +15,4 @@ The best way to describe the Sheikh Zayed mosque would be "the pearl of Aqaba." 
 
 <!--more-->
 
-Originally built in 1975, the mosque was refurbished in 2010 as part of a larger [effort to revitalize the Red Sea port city](http://www.marsazayed.com/) and was modeled after the [Sheikh Zayed Grand mosque](http://www.szgmc.gov.ae/en/) in Abu Dhabi.
+Originally built in 1975, the mosque was refurbished in 2010 as part of a larger effort to revitalize the Red Sea port city and was modeled after the [Sheikh Zayed Grand mosque](http://www.szgmc.gov.ae/en/) in Abu Dhabi.
