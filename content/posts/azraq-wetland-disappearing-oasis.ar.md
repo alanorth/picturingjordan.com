@@ -7,7 +7,6 @@ images = ["/2016/09/IMG_20160924_101454.jpg"]
 date = "2020-01-31T17:43:42+02:00"
 author = "ألِن أورث"
 slug = "azraq-wetland-disappearing-oasis"
-draft = true
 +++
 
 {{< figure src="/2016/09/IMG_20160924_101454.jpg" title="نوع من أنواع الواحات المعرّض للاختفاء قريباً" >}}
