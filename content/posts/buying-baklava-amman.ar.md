@@ -7,7 +7,6 @@ tags = ["البقلاوة"]
 date = "2020-01-31T17:19:30+02:00"
 author = "ألِن أورث"
 description = "Buying baklava from a jovial young Jordanian at the market in downtown Amman."
-draft = true
 +++
 
 {{< figure src="/2016/09/IMG_20160810_160953.jpg" title="الجَمِيعُ يُحِبُّ البَقْلَاوَة!" >}}
