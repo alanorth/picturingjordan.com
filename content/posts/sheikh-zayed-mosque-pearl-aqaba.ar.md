@@ -5,7 +5,7 @@ author = "ألِن أورث"
 images = ["/2016/10/DSC_0024.JPG"]
 slug = "sheikh-zayed-mosque-pearl-aqaba"
 categories = ["عمارة"]
-tags = ["عمان", "المساجد"]
+tags = ["العقبة‎", "مسجد"]
 description = "The pearl of Aqaba is an elegant white mosque by the sea."
 +++
 
