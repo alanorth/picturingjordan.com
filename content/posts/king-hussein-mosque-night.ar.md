@@ -5,7 +5,7 @@ author = "ألِن أورث"
 slug = "king-hussein-mosque-night"
 aliases = ["/2016/09/king-hussein-mosque-at-night/"]
 categories = ["عمارة"]
-tags = ["عمان", "المساجد"]
+tags = ["عمان", "مسجد"]
 description = "Alan practices night photography on the largest mosque in Amman."
 images = ["/2016/09/DSC_0010.jpg"]
 +++
