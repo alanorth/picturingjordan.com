@@ -8,7 +8,6 @@ categories = ["العمارة"]
 tags = ["كنيسة", "عمّان"]
 description = "بِبَسَاطَة هَذِهِ وَاحِدَةٌ مِنْ أَكْثَرِ المَبَانِي الفَرِيدَةِ فِي عَمَّان"
 author = "ألِن أورث"
-draft = true
 +++
 
 {{< figure src="/2016/09/IMG_20160919_141959.jpg" title="بِبَسَاطَة هَذِهِ وَاحِدَةٌ مِنْ أَكْثَرِ المَبَانِي الفَرِيدَةِ فِي عَمَّان" alt="Armenian church with pointy blue steeple in traditional style" >}}
