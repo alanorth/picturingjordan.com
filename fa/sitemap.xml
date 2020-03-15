@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/categories/</loc>
+    <lastmod>2020-03-15T17:49:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -28,6 +29,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/</loc>
+    <lastmod>2020-03-15T17:49:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -35,13 +37,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://picturingjordan.com/"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="bg"
-                href="https://picturingjordan.com/bg/"
+                hreflang="en"
+                href="https://picturingjordan.com/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -51,7 +53,33 @@
   </url>
   
   <url>
+    <loc>https://picturingjordan.com/fa/posts/</loc>
+    <lastmod>2020-03-15T17:49:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/posts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://picturingjordan.com/fa/tags/</loc>
+    <lastmod>2020-03-15T17:49:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -71,6 +99,36 @@
                 rel="alternate"
                 hreflang="fa"
                 href="https://picturingjordan.com/fa/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/tags/%D8%A7%D9%8E%D9%85%D8%A7%D9%86/</loc>
+    <lastmod>2020-03-15T17:49:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/tags/%D8%B1%D9%88%D9%85%DB%8C/</loc>
+    <lastmod>2020-03-15T17:49:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/categories/%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C/</loc>
+    <lastmod>2020-03-15T17:49:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/2020/03/iconic-roman-ruins-amman/</loc>
+    <lastmod>2020-03-15T17:49:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2020/01/iconic-roman-ruins-amman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/2020/03/iconic-roman-ruins-amman/"
                 />
   </url>
   

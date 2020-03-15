@@ -4,7 +4,12 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/categories/</loc>
-    <lastmod>2020-02-10T11:27:42+02:00</lastmod>
+    <lastmod>2020-02-10T12:01:26+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -17,44 +22,19 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fa"
-                href="https://picturingjordan.com/fa/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ar"
                 href="https://picturingjordan.com/ar/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/ar/</loc>
-    <lastmod>2020-02-10T11:27:42+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://picturingjordan.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://picturingjordan.com/bg/"
-                />
+    <loc>https://picturingjordan.com/ar/posts/</loc>
+    <lastmod>2020-02-10T12:01:26+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://picturingjordan.com/fa/"
+                href="https://picturingjordan.com/fa/posts/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://picturingjordan.com/ar/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://picturingjordan.com/ar/posts/</loc>
-    <lastmod>2020-02-10T11:27:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -74,7 +54,12 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/tags/</loc>
-    <lastmod>2020-02-10T11:27:42+02:00</lastmod>
+    <lastmod>2020-02-10T12:01:26+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -87,11 +72,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fa"
-                href="https://picturingjordan.com/fa/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ar"
                 href="https://picturingjordan.com/ar/tags/"
                 />
@@ -99,22 +79,22 @@
   
   <url>
     <loc>https://picturingjordan.com/ar/categories/%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D8%A9/</loc>
-    <lastmod>2020-02-10T11:27:42+02:00</lastmod>
+    <lastmod>2020-02-10T12:01:26+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://picturingjordan.com/ar/tags/%D8%B9%D9%85%D9%91%D8%A7%D9%86/</loc>
-    <lastmod>2020-02-10T11:27:42+02:00</lastmod>
+    <lastmod>2020-02-10T12:01:26+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://picturingjordan.com/ar/tags/%D9%83%D9%86%D9%8A%D8%B3%D8%A9/</loc>
-    <lastmod>2020-02-10T11:27:42+02:00</lastmod>
+    <lastmod>2020-02-10T12:01:26+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://picturingjordan.com/ar/2020/02/saint-thaddeus-church-amman/</loc>
-    <lastmod>2020-02-10T11:27:42+02:00</lastmod>
+    <lastmod>2020-02-10T12:01:26+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -540,6 +520,31 @@
   <url>
     <loc>https://picturingjordan.com/ar/tags/%D8%AC%D8%B1%D8%A7%D9%81%D9%8A%D8%AA%D9%8A/</loc>
     <lastmod>2019-06-24T12:20:33+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/ar/</loc>
+    <lastmod>2019-04-18T22:24:43+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/"
+                />
   </url>
   
   <url>

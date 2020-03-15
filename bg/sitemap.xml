@@ -7,6 +7,11 @@
     <lastmod>2019-04-22T15:53:46+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ar"
                 href="https://picturingjordan.com/ar/"
                 />
@@ -14,11 +19,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://picturingjordan.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://picturingjordan.com/fa/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -47,6 +47,11 @@
     <lastmod>2018-07-31T00:58:52+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ar"
                 href="https://picturingjordan.com/ar/categories/"
                 />
@@ -54,11 +59,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://picturingjordan.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://picturingjordan.com/fa/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -70,6 +70,11 @@
   <url>
     <loc>https://picturingjordan.com/bg/posts/</loc>
     <lastmod>2018-07-31T00:58:52+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/posts/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -92,6 +97,11 @@
     <lastmod>2018-07-31T00:58:52+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ar"
                 href="https://picturingjordan.com/ar/tags/"
                 />
@@ -99,11 +109,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://picturingjordan.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://picturingjordan.com/fa/tags/"
                 />
     <xhtml:link
                 rel="alternate"
