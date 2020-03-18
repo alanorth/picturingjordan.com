@@ -7,7 +7,6 @@ description = "One of the most unique buildings in Amman is even more so at suns
 categories = ["معماری"]
 tags = ["کلیسا", "اَمان"]
 author = "اَلن اورث"
-draft = true
 +++
 
 {{< figure src="/2018/07/IMG_20180707_185402.jpg" title="کلیسای نمادین ارمنی در جبل اشرفیه در غروب آفتاب" >}}
