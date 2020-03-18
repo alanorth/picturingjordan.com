@@ -117,6 +117,11 @@
     <lastmod>2018-08-20T00:21:48+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/2020/03/buying-bedouin-fabric-amman/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ar"
                 href="https://picturingjordan.com/ar/2019/06/buying-bedouin-fabric-amman/"
                 />
@@ -630,6 +635,11 @@
   <url>
     <loc>https://picturingjordan.com/about/</loc>
     <lastmod>2019-04-18T18:31:47+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/about/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
