@@ -1,11 +1,11 @@
 +++
-title = "خرید پارچه بادیه نشینان در اَمان "
+title = "خرید پارچه بادیه نشینان در اَمان"
 date = 2020-03-17T15:32:39+02:00
 slug = "buying-bedouin-fabric-amman"
 images = ["/2018/08/IMG_20180407_124628.jpg"]
 description = "This unique and colorful Bedouin fabric is also cheap and durable."
 categories = ["طرح"]
-tags = ["اَمان", "بادیه نشینان", "پارچه"]
+tags = ["اَمان","بادیه نشینان","پارچه"]
 author = "اَلن اورث"
 +++
 
