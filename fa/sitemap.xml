@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/categories/</loc>
-    <lastmod>2020-03-19T15:08:20+02:00</lastmod>
+    <lastmod>2020-03-19T15:59:17+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -29,7 +29,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/posts/</loc>
-    <lastmod>2020-03-19T15:08:20+02:00</lastmod>
+    <lastmod>2020-03-19T15:59:17+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/tags/</loc>
-    <lastmod>2020-03-19T15:08:20+02:00</lastmod>
+    <lastmod>2020-03-19T15:59:17+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -78,12 +78,47 @@
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/fa/tags/%D8%A7%D9%8E%D9%85%D8%A7%D9%86/</loc>
-    <lastmod>2020-03-19T15:08:20+02:00</lastmod>
+    <loc>https://picturingjordan.com/fa/tags/%D8%B1%D9%88%D9%85%DB%8C/</loc>
+    <lastmod>2020-03-19T15:59:17+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://picturingjordan.com/fa/categories/%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C/</loc>
+    <lastmod>2020-03-19T15:59:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/2020/03/greco-roman-ruins-pella/</loc>
+    <lastmod>2020-03-19T15:59:17+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/05/greco-roman-ruins-pella/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2018/02/greco-roman-ruins-pella/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/2020/03/greco-roman-ruins-pella/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/tags/%D9%BE%D9%90%D9%84%D8%A7/</loc>
+    <lastmod>2020-03-19T15:59:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/tags/%DB%8C%D9%88%D9%86%D8%A7%D9%86%DB%8C/</loc>
+    <lastmod>2020-03-19T15:59:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/tags/%D8%A7%D9%8E%D9%85%D8%A7%D9%86/</loc>
     <lastmod>2020-03-19T15:08:20+02:00</lastmod>
   </url>
   
@@ -195,11 +230,6 @@
                 hreflang="fa"
                 href="https://picturingjordan.com/fa/about/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://picturingjordan.com/fa/tags/%D8%B1%D9%88%D9%85%DB%8C/</loc>
-    <lastmod>2020-03-19T15:08:20+02:00</lastmod>
   </url>
   
   <url>
