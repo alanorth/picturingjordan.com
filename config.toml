@@ -77,6 +77,6 @@ DefaultContentLanguage = "en"
   date_format = "02/01/2006"
 [languages.fa]
   # Persian date format is yyyy/mm/dd
-  date_format = "2006/01/02"
+  date_format = "2006/1/2"
 
 # vim: ts=2 sw=2 et
