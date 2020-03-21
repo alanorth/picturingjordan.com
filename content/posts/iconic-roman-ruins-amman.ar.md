@@ -7,7 +7,6 @@ tags = ["عمان","الرومان"]
 categories = ["هندسة معمارية "]
 description = "The ruins of the citadel's Roman Temple of Hercules are an icon of Amman."
 author = "ألِن أورث"
-draft = true
 +++
 
 {{< figure src="/2020/01/2019-11-01-amman-citadel.jpg" title="أَطْلَالُ مَعْبَدِ هِرَقْلَ الرُّومَانِيِّ" >}}
