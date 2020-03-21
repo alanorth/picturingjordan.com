@@ -59,6 +59,10 @@ enableGitInfo = true
   name = "English Bulgaria"
   url = "https://englishbulgaria.net"
 
+[markup]
+  [markup.blackfriday]
+    angledQuotes = true
+
 # Default content language for Hugo 0.17's multilingual support (default is "en")
 # See: https://github.com/spf13/hugo/blob/master/docs/content/content/multilingual.md
 DefaultContentLanguage = "en"
@@ -66,8 +70,13 @@ DefaultContentLanguage = "en"
 # Languages to render
 [languages.en]
 [languages.bg]
-  date_format = "02 Jan 2006"
+  # Bulgarian date format is dd.mm.yyyy
+  date_format = "02.01.2006"
 [languages.ar]
+  # Arabic date format is dd/mm/yyyy
+  date_format = "02/01/2006"
 [languages.fa]
+  # Persian date format is yyyy/mm/dd
+  date_format = "2006/01/02"
 
 # vim: ts=2 sw=2 et
