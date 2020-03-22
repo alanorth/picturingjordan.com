@@ -1,6 +1,5 @@
 +++
 date = "2016-09-26T14:28:23+03:00"
-author = "Alan Orth"
 title = "Another Beautiful Hand-Painted Wood Ceiling"
 slug = "another-beautiful-hand-painted-ceiling"
 aliases = ["/2016/09/another-beautiful-hand-painted-wood-ceiling/"]

@@ -6,7 +6,6 @@ images = ["/2018/08/IMG_20180407_124628.jpg"]
 description = "This unique and colorful Bedouin fabric is also cheap and durable."
 categories = ["طرح"]
 tags = ["اَمان","بادیه نشینان","پارچه"]
-author = "اَلن اورث"
 +++
 
 {{< figure src="/2018/08/IMG_20180407_124628.jpg" title="ردیفهای رنگارنگ از پارچهای بادیه نشینان برای فروش در اَمان" >}}

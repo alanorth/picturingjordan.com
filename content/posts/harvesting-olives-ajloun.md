@@ -14,7 +14,6 @@ tags = [
 date = "2016-11-18T18:39:58+02:00"
 title = "Harvesting Olives in Ajloun"
 slug = "harvesting-olives-ajloun"
-author = "Alan Orth"
 +++
 
 {{< figure src="/2016/11/IMG_20161118_130025.jpg" title="Freshly picked olives" alt="Freshly picked olives" >}}

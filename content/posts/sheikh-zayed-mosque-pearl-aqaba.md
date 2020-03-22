@@ -1,5 +1,4 @@
 +++
-author = "Alan Orth"
 date = "2016-10-11T12:06:06+03:00"
 title = "Sheikh Zayed Mosque: the Pearl of Aqaba"
 images = ["/2016/10/DSC_0024.JPG"]

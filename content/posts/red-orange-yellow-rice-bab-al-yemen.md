@@ -12,7 +12,6 @@ tags = [
   "Yemen",
   "Amman",
 ]
-author = "Alan Orth"
 slug = "red-orange-yellow-rice-bab-al-yemen"
 
 +++

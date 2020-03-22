@@ -1,6 +1,5 @@
 +++
 date = "2016-11-07T15:28:23+03:00"
-author = "Alan Orth"
 title = "Contemporary Arab Design at the Jordan River Foundation Showroom"
 slug = "contemporary-arab-design-jrf-showroom"
 description = "Contemporary Arab design is on display at the Jordan River Foundation's Amman showroom."

@@ -12,7 +12,6 @@ tags = [
   "Kanafeh",
 ]
 date = "2016-12-09T17:22:59+02:00"
-author = "Alan Orth"
 
 +++
 

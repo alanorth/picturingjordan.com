@@ -5,7 +5,6 @@ date = "2017-01-23T08:53:53+02:00"
 title = "The Dome of the Rock"
 categories = ["Architecture"]
 tags = ["Jerusalem"]
-author = "Alan Orth"
 slug = "dome-of-the-rock"
 +++
 

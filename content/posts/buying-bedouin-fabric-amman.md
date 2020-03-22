@@ -6,7 +6,6 @@ images = ["/2018/08/IMG_20180407_124628.jpg"]
 description = "This unique and colorful Bedouin fabric is also cheap and durable."
 categories = ["Design"]
 tags = ["Amman", "Bedouin", "Fabric"]
-author = "Alan Orth"
 +++
 
 {{< figure src="/2018/08/IMG_20180407_124628.jpg" title="Reams of colorful Bedouin fabric on sale in downtown Amman" alt="Several reams of colorful fabric stacked vertically in a shop in downtown Amman." >}}

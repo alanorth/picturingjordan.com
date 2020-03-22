@@ -6,7 +6,6 @@ tags = ["Pella","Greek","Roman"]
 categories = ["Architecture"]
 images = ["/2018/02/DSC_0005.JPG"]
 description = "Relatively unknown and only slightly less impressive than other sites in the region, Pella is enchanting and has a character of its own."
-author = "Alan Orth"
 +++
 
 {{< figure src="/2018/02/DSC_0005.JPG" title="Remains of the classical basilica of Pella" alt="Remains of the classical basilica of Pella" >}}

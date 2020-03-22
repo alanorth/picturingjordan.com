@@ -5,7 +5,6 @@ categories = ["Nature"]
 description = "Lose yourself in the endless desert expanses of Wadi Rum."
 images = ["/2017/02/DSC_0141.JPG"]
 date = "2017-03-27T10:30:42+03:00"
-author = "Alan Orth"
 slug = "lose-yourself-wadi-rum"
 
 +++

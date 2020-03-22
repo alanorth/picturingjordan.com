@@ -6,7 +6,6 @@ images = ["/2018/07/IMG_20180707_185402.jpg"]
 description = "One of the most unique buildings in Amman is even more so at sunset."
 categories = ["Architecture"]
 tags = ["Church", "Amman"]
-author = "Alan Orth"
 +++
 
 {{< figure src="/2018/07/IMG_20180707_185402.jpg" title="Iconic Armenian Church in Jabal Ashrafieh at Sunset" alt="Church in typical Armenian style with pointy blue roof and the city behind it." >}}

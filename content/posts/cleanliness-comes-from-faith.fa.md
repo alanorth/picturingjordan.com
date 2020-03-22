@@ -1,7 +1,6 @@
 +++
 title = "پاکیزگی از ایمان میاید"
 slug = "cleanliness-comes-from-faith"
-author = "اَلن اورث"
 date = 2020-03-21T09:36:52+02:00
 images = ["/2017/07/IMG_20161120_143235.jpg"]
 description = "Graffiti in downtown Amman encourages Jordanians to keep the city clean by appealing to their Muslim faith."

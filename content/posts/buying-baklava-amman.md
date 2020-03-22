@@ -7,7 +7,6 @@ categories = ["Food"]
 tags = ["Baklava", "Amman"]
 description = "Buying baklava from a jovial young Jordanian at the market in downtown Amman."
 images = ["/2016/09/IMG_20160810_160953.jpg"]
-author = "Alan Orth"
 +++
 
 {{< figure src="/2016/09/IMG_20160810_160953.jpg" title="Everybody likes baklava!" alt="Young child smiling and wrapping up baklava in a shop in Amman" >}}

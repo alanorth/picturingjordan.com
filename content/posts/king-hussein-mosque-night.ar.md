@@ -1,7 +1,6 @@
 +++
 date = "2019-12-18T22:34:07+02:00"
 title = "مَسْجِدُ المَلِك حُسَيْن في اللَّيْل"
-author = "ألِن أورث"
 slug = "king-hussein-mosque-night"
 aliases = ["/2016/09/king-hussein-mosque-at-night/"]
 categories = ["عمارة"]

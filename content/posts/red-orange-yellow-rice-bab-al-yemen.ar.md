@@ -7,7 +7,6 @@ images = [
 description = "If eating red, orange, and yellow rice on the floor sounds good to you, you'll love Bab al-Yemen!"
 categories = ["طعام"]
 tags = [ "اليمن", "عمّان"]
-author = "ألِن أورث"
 slug = "red-orange-yellow-rice-bab-al-yemen"
 +++
 

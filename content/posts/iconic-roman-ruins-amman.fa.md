@@ -6,7 +6,6 @@ slug = "iconic-roman-ruins-amman"
 tags = ["اَمان","رومی"]
 categories = ["معماری"]
 description = "The ruins of the citadel's Roman Temple of Hercules are an icon of Amman."
-author = "اَلن اورث"
 +++
 
 {{< figure src="/2020/01/2019-11-01-amman-citadel.jpg" title="ویرانه های معبد رومی هرکول" >}}

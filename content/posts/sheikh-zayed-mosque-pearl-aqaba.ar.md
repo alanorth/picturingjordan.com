@@ -1,7 +1,6 @@
 +++
 date = "2020-01-31T15:39:07+02:00"
 title = "مَسْجِدُ الشَّيْخِ زَايِد: لُؤْلُؤَةُ العَقَبَة"
-author = "ألِن أورث"
 images = ["/2016/10/DSC_0024.JPG"]
 slug = "sheikh-zayed-mosque-pearl-aqaba"
 categories = ["عمارة"]

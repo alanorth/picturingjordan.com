@@ -6,7 +6,6 @@ images = ["/2018/08/IMG_20180407_124628.jpg"]
 description = "This unique and colorful Bedouin fabric is also cheap and durable."
 categories = ["التصميم"]
 tags = ["عمّان", "بدوي", "قماش"]
-author = "ألِن أورث"
 +++
 
 {{< figure src="/2018/08/IMG_20180407_124628.jpg" title="أنسجة بدويّة مُلوّنة للبيع في وسط عمّان" alt="Several reams of colorful fabric stacked vertically in a shop in downtown Amman." >}}

@@ -6,7 +6,6 @@ tags = ["لقُدس"]
 categories = ["فنّ العمارة"]
 images = ["/2017/01/IMG_20170117_083551.jpg", "/2017/01/IMG_20170117_092406.jpg"]
 description = "The Dome of the Rock is one of Jerusalem's most sacred and beautiful artefacts."
-author = "ألِن أورث"
 +++
 
 {{< figure src="/2017/01/IMG_20170117_083551.jpg" title="القُبَّة الذَّهَبِيَّة والبلاط النّابِض بالحياة والخطّ العربيّ الأنيق" >}}

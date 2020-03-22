@@ -6,7 +6,6 @@ slug = "greco-roman-ruins-jerash"
 tags = ["جرش","اليونان","الرومان"]
 categories = ["العمارة"]
 description = "Jerash is the most well-preserved of Jordan's Greco–Roman sites."
-author = "ألِن أورث"
 +++
 
 {{< figure src="/2017/04/DSC_0143.jpg" title="صَفٌّ مِنَ الأَعْمِدَةِ في السَّاحَةِ البَيْضَاوِيَّة في جرش" >}}

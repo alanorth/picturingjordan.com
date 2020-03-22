@@ -1,7 +1,6 @@
 +++
 date = "2016-09-29T11:54:07+03:00"
 title = "King Hussein Mosque at Night"
-author = "Alan Orth"
 slug = "king-hussein-mosque-night"
 aliases = ["/2016/09/king-hussein-mosque-at-night/"]
 categories = ["Architecture"]

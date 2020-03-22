@@ -6,7 +6,6 @@ slug = "greco-roman-ruins-jerash"
 tags = ["Jerash","Greek","Roman"]
 categories = ["Architecture"]
 description = "Jerash is the most well-preserved of Jordan's Greco–Roman sites."
-author = "Alan Orth"
 +++
 
 {{< figure src="/2017/04/DSC_0143.jpg" title="Row of columns at the Oval Forum in Jerash" alt="Row of columns at the Oval Forum in Jerash" >}}

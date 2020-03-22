@@ -1,7 +1,6 @@
 +++
 date = "2020-02-10T10:23:07+02:00"
 title = "العَقْبَةُ غَيْرُ نَظِيفَةٍ ومُخَيِّبَةٍ للآمَال"
-author = "ألِن أورث"
 images = ["/2016/10/DSC_0024.JPG"]
 slug = "aqaba-dirty-disappointing"
 categories = ["سفر"]

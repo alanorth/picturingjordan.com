@@ -6,7 +6,6 @@ images = ["/2017/06/IMG_20170606_101711.jpg"]
 tags = ["Jerash", "Greek", "Roman"]
 title = "Emperor Hadrian's Arch in Jerash"
 slug = "emperor-hadrians-arch-jerash"
-author = "Alan Orth"
 
 +++
 

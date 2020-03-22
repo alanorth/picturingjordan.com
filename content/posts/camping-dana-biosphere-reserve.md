@@ -1,6 +1,5 @@
 +++
 date = "2016-09-19T09:48:23+03:00"
-author = "Alan Orth"
 title = "Camping in the Dana Biosphere Reserve"
 slug = "camping-dana-biosphere-reserve"
 aliases = ["/2016/09/camping-in-the-dana-biosphere-reserve/"]

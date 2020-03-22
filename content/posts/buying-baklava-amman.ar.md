@@ -5,7 +5,6 @@ images = ["/2016/09/IMG_20160810_160953.jpg"]
 categories = ["طعام"]
 tags = ["البقلاوة"]
 date = "2020-01-31T17:19:30+02:00"
-author = "ألِن أورث"
 description = "Buying baklava from a jovial young Jordanian at the market in downtown Amman."
 +++
 

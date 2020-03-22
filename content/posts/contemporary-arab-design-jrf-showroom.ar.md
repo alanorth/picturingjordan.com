@@ -1,6 +1,5 @@
 +++
 date = "2019-12-18T22:16:23+02:00"
-author = "ألِن أورث"
 title = "التَّصْمِيمُ العَربِيّ المُعاصِر في مَعْرِضِ مُؤَسّسَةِ نَهْرِ الأُردن"
 slug = "contemporary-arab-design-jrf-showroom"
 description = "Contemporary Arab design is on display at the Jordan River Foundation's Amman showroom."

@@ -6,7 +6,6 @@ images = ["/2017/02/DSC_0052.JPG"]
 date = "2017-02-15T18:31:28+02:00"
 title = "Sleep in a Chalet at the Dead Sea"
 slug = "sleep-chalet-dead-sea"
-author = "Alan Orth"
 
 +++
 
