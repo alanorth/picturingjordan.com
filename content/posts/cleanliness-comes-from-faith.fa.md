@@ -7,7 +7,6 @@ images = ["/2017/07/IMG_20161120_143235.jpg"]
 description = "Graffiti in downtown Amman encourages Jordanians to keep the city clean by appealing to their Muslim faith."
 categories = ["اسلام"]
 tags = ["دیوارنگاری", "اَمان"]
-draft = true
 +++
 
 {{< figure src="/2017/07/IMG_20161120_143235.jpg" title="نقاشی های دیواری در مرکز شهر امان برای مومنین جذاب مینماید" >}}
