@@ -15,4 +15,4 @@ There is a popular notion that cleanliness is an important part of the Islamic f
 
 <!--more-->
 
-I saw this graffiti while walking around downtown Amman and thought the irony was too much to not share it. Loosely translated (this apparently comes from the [words, actions, or habits of the prophet Muhammad](https://en.wikipedia.org/wiki/Hadith)), it says "cleanliness comes from faith" (al nadafa min al iman).
+I saw this graffiti while walking around downtown Amman and thought the irony was too much to not share it. Loosely translated (this apparently comes from the [words, actions, or habits of the prophet Muhammad](https://en.wikipedia.org/wiki/Hadith)), it says "cleanliness comes from faith" (_al-nadafa min al-iman_).
