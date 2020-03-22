@@ -15,3 +15,5 @@ images = ["/2016/09/DSC_0010.jpg"]
 <!--more-->
 
 *Technical: Nikon D3100, ten-second exposure time, post processed from RAW with [darktable](https://www.darktable.org/).*
+
+Превод: Стела Джурина

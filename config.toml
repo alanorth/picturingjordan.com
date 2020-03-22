@@ -66,6 +66,7 @@ DefaultContentLanguage = "en"
 # Languages to render
 [languages.en]
 [languages.bg]
+  author = "Алън Орт"
   # Bulgarian date format is dd.mm.yyyy
   date_format = "02.01.2006"
 [languages.ar]
