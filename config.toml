@@ -72,6 +72,7 @@ DefaultContentLanguage = "en"
   # Arabic date format is dd/mm/yyyy
   date_format = "02/01/2006"
 [languages.fa]
+  description = "به اشتراک گذاشتن اُردن با جهان — تصویر به تصویر"
   # Persian date format is yyyy/mm/dd
   date_format = "2006/1/2"
 
