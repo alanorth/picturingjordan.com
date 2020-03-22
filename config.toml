@@ -38,7 +38,7 @@ enableGitInfo = true
 
   [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
-    about = "*Picturing Jordan*, sharing Jordan with the world — one picture at a time.<br><br>[Read more →](/about)"
+    about = "*Picturing Jordan*, sharing Jordan with the world — one picture at a time.  [Read more →](/about)"
 
     # How many posts to show on the sidebar (Default: 5)
     #num_recent_posts = 2
