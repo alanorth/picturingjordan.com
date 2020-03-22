@@ -71,10 +71,14 @@ DefaultContentLanguage = "en"
 [languages.ar]
   # Arabic date format is dd/mm/yyyy
   date_format = "02/01/2006"
+  [languages.ar.params]
+    author = "ألِن أورث"
 [languages.fa]
   description = "به اشتراک گذاشتن اُردن با جهان — تصویر به تصویر"
   # Persian date format is yyyy/mm/dd
   date_format = "2006/1/2"
+  [languages.fa.params]
+    author = "اَلن اورث"
   [languages.fa.params.sidebar]
     about = "  به اشتراک گذاشتن اُردن با جهان — تصویر به تصویر [بیشتر بخوانید ←](/fa/about)"
 
