@@ -76,6 +76,6 @@ DefaultContentLanguage = "en"
   # Persian date format is yyyy/mm/dd
   date_format = "2006/1/2"
   [languages.fa.params.sidebar]
-    about = "  به اشتراک گذاشتن اُردن با جهان — تصویر به تصویر [بیشتر بخوانید ←](/about)"
+    about = "  به اشتراک گذاشتن اُردن با جهان — تصویر به تصویر [بیشتر بخوانید ←](/fa/about)"
 
 # vim: ts=2 sw=2 et
