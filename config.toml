@@ -59,10 +59,6 @@ enableGitInfo = true
   name = "English Bulgaria"
   url = "https://englishbulgaria.net"
 
-[markup]
-  [markup.blackfriday]
-    angledQuotes = true
-
 # Default content language for Hugo 0.17's multilingual support (default is "en")
 # See: https://github.com/spf13/hugo/blob/master/docs/content/content/multilingual.md
 DefaultContentLanguage = "en"
