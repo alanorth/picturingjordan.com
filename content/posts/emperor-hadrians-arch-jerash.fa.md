@@ -6,7 +6,6 @@ images = ["/2017/06/IMG_20170606_101711.jpg"]
 tags = ["جرش", "یونانی", "رومی"]
 title = "طاق امپراتور هادریان در جرش"
 slug = "emperor-hadrians-arch-jerash"
-draft = true
 +++
 
 {{<figure src="/2017/06/IMG_20170606_101711.jpg" title="طاق هادریان ورود شما را به جرش خوش آمد میگوید" >}}
