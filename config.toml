@@ -70,10 +70,13 @@ DefaultContentLanguage = "en"
   # Bulgarian date format is dd.mm.yyyy
   date_format = "02.01.2006"
 [languages.ar]
+  description = "مُشَارَكَةُ الأُرْدُنِّ مَعَ العَالِم — صُورَةٌ وَاحِدَةٌ فِي كُلِّ مَرَّةٍ"
   # Arabic date format is dd/mm/yyyy
   date_format = "02/01/2006"
   [languages.ar.params]
     author = "ألِن أورث"
+  [languages.ar.params.sidebar]
+    about = "  مُشَارَكَةُ الأُرْدُنِّ مَعَ العَالِم — صُورَةٌ وَاحِدَةٌ فِي كُلِّ مَرَّةٍ [قِرَاءَة المَزِيد ←](/ar/about)"
 [languages.fa]
   description = "به اشتراک گذاشتن اُردن با جهان — تصویر به تصویر"
   # Persian date format is yyyy/mm/dd
