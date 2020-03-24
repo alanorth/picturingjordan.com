@@ -6,7 +6,6 @@ description = "Lose yourself in the endless desert expanses of Wadi Rum."
 images = ["/2017/02/DSC_0141.JPG"]
 date = "2020-03-23T12:13:22+02:00"
 slug = "lose-yourself-wadi-rum"
-draft = true
 +++
 
 {{< figure src="/2017/02/DSC_0141.JPG" title="بادیه نشینان شترسوار در وادی روم" >}}
