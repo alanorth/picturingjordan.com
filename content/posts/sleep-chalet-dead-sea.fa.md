@@ -6,7 +6,6 @@ images = ["/2017/02/DSC_0052.JPG"]
 date = "2020-03-26T15:42:15+02:00"
 title = "در کنار دریای مرده در کلبه ای بخوابید"
 slug = "sleep-chalet-dead-sea"
-draft = true
 +++
 
 {{< figure src="/2017/02/DSC_0052.JPG" title="از منظره زیبا از درون تخت هَمِک خود لذت ببرید" >}}
