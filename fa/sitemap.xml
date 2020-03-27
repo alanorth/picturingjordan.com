@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/categories/</loc>
-    <lastmod>2020-03-26T17:49:48+02:00</lastmod>
+    <lastmod>2020-03-27T11:44:54+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -29,7 +29,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/posts/</loc>
-    <lastmod>2020-03-26T17:49:48+02:00</lastmod>
+    <lastmod>2020-03-27T11:44:54+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/tags/</loc>
-    <lastmod>2020-03-26T17:49:48+02:00</lastmod>
+    <lastmod>2020-03-27T11:44:54+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -75,6 +75,36 @@
                 hreflang="fa"
                 href="https://picturingjordan.com/fa/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/2020/03/sleep-chalet-dead-sea/</loc>
+    <lastmod>2020-03-27T11:44:54+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/11/sleep-chalet-dead-sea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2017/02/sleep-chalet-dead-sea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/2020/03/sleep-chalet-dead-sea/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/tags/%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C-%D9%85%D8%B1%D8%AF%D9%87/</loc>
+    <lastmod>2020-03-27T11:44:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/categories/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA/</loc>
+    <lastmod>2020-03-27T11:44:54+03:00</lastmod>
   </url>
   
   <url>
@@ -100,11 +130,6 @@
                 hreflang="fa"
                 href="https://picturingjordan.com/fa/2020/03/lose-yourself-wadi-rum/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://picturingjordan.com/fa/categories/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA/</loc>
-    <lastmod>2020-03-24T10:56:08+02:00</lastmod>
   </url>
   
   <url>
