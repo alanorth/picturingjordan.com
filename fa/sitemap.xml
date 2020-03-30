@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/categories/</loc>
-    <lastmod>2020-03-30T09:38:46+03:00</lastmod>
+    <lastmod>2020-03-30T17:02:22+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -29,7 +29,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/posts/</loc>
-    <lastmod>2020-03-30T09:38:46+03:00</lastmod>
+    <lastmod>2020-03-30T17:02:22+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/tags/</loc>
-    <lastmod>2020-03-30T09:38:46+03:00</lastmod>
+    <lastmod>2020-03-30T17:02:22+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -75,6 +75,36 @@
                 hreflang="fa"
                 href="https://picturingjordan.com/fa/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/tags/%D8%A7%D9%88%D8%B1%D8%B4%D9%84%DB%8C%D9%85/</loc>
+    <lastmod>2020-03-30T17:02:22+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/2020/03/dome-of-the-rock/</loc>
+    <lastmod>2020-03-30T17:02:22+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/10/dome-of-the-rock/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2017/01/dome-of-the-rock/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/2020/03/dome-of-the-rock/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/categories/%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C/</loc>
+    <lastmod>2020-03-30T17:02:22+03:00</lastmod>
   </url>
   
   <url>
@@ -100,11 +130,6 @@
                 hreflang="fa"
                 href="https://picturingjordan.com/fa/2020/03/grandeur-petra/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://picturingjordan.com/fa/categories/%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C/</loc>
-    <lastmod>2020-03-30T09:38:46+03:00</lastmod>
   </url>
   
   <url>
