@@ -6,7 +6,6 @@ slug = "grandeur-petra"
 images = ["/2016/12/DSC_0029.JPG"]
 description = "Petra is not only grander than we suppose, but grander than we can suppose."
 categories = ["معماری"]
-draft = true
 +++
 
 {{< figure src="/2016/12/DSC_0029.JPG" title="«صومعه» پترا در نور طلایی درست کمی قبل از غروب آفتاب" >}}
