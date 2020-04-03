@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/categories/</loc>
-    <lastmod>2020-03-30T17:02:22+03:00</lastmod>
+    <lastmod>2020-04-03T15:43:32+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -29,7 +29,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/posts/</loc>
-    <lastmod>2020-03-30T17:02:22+03:00</lastmod>
+    <lastmod>2020-04-03T15:43:32+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/tags/</loc>
-    <lastmod>2020-03-30T17:02:22+03:00</lastmod>
+    <lastmod>2020-04-03T15:43:32+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -74,6 +74,36 @@
                 rel="alternate"
                 hreflang="fa"
                 href="https://picturingjordan.com/fa/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/categories/%D8%BA%D8%B0%D8%A7/</loc>
+    <lastmod>2020-04-03T15:43:32+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/tags/%DA%A9%D9%88%D9%86%D9%81%D9%87/</loc>
+    <lastmod>2020-04-03T15:43:32+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/2020/04/kanafeh-classy-palestinian-dessert/</loc>
+    <lastmod>2020-04-03T15:43:32+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/08/kanafeh-classy-palestinian-dessert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2016/12/kanafeh-classy-palestinian-dessert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/2020/04/kanafeh-classy-palestinian-dessert/"
                 />
   </url>
   
