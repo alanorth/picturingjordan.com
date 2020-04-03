@@ -6,7 +6,6 @@ description = "There is a thing called kanafeh and you must eat it."
 categories = ["غذا"]
 tags = ["کونفه"]
 date = "2020-04-02T15:56:59+03:00"
-draft = true
 +++
 
 {{< figure src="/2016/12/IMG_20161127_212229.jpg" title="تکه کمی از کونفه درون رستورانی در اَمان" >}}
