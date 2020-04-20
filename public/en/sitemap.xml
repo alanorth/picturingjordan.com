@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://picturingjordan.com/tags/amman/</loc>
-    <lastmod>2020-03-22T10:47:08+02:00</lastmod>
+    <loc>https://picturingjordan.com/categories/architecture/</loc>
+    <lastmod>2020-04-20T15:56:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/categories/architecture/</loc>
-    <lastmod>2020-03-26T15:34:42+02:00</lastmod>
+    <loc>https://picturingjordan.com/tags/byzantine/</loc>
+    <lastmod>2020-04-20T15:56:53+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://picturingjordan.com/categories/</loc>
-    <lastmod>2020-03-26T15:44:45+02:00</lastmod>
+    <lastmod>2020-04-20T15:56:53+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -38,28 +38,23 @@
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/2020/01/iconic-roman-ruins-amman/</loc>
-    <lastmod>2020-03-22T10:47:08+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://picturingjordan.com/ar/2020/03/iconic-roman-ruins-amman/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://picturingjordan.com/fa/2020/03/iconic-roman-ruins-amman/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://picturingjordan.com/2020/01/iconic-roman-ruins-amman/"
-                />
+    <loc>https://picturingjordan.com/tags/church/</loc>
+    <lastmod>2020-04-20T15:56:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/tags/gadara/</loc>
+    <lastmod>2020-04-20T15:56:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/2020/04/gadaras-octagonal-martyrium/</loc>
+    <lastmod>2020-04-20T15:56:53+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://picturingjordan.com/posts/</loc>
-    <lastmod>2020-03-26T15:44:45+02:00</lastmod>
+    <lastmod>2020-04-20T15:56:53+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -83,13 +78,8 @@
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/tags/roman/</loc>
-    <lastmod>2020-03-22T10:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://picturingjordan.com/tags/</loc>
-    <lastmod>2020-03-26T15:44:45+02:00</lastmod>
+    <lastmod>2020-04-20T15:56:53+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -110,6 +100,41 @@
                 hreflang="en"
                 href="https://picturingjordan.com/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/tags/umm-qays/</loc>
+    <lastmod>2020-04-20T15:56:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/tags/amman/</loc>
+    <lastmod>2020-03-22T10:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/2020/01/iconic-roman-ruins-amman/</loc>
+    <lastmod>2020-03-22T10:47:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2020/03/iconic-roman-ruins-amman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/2020/03/iconic-roman-ruins-amman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2020/01/iconic-roman-ruins-amman/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/tags/roman/</loc>
+    <lastmod>2020-03-22T10:47:08+02:00</lastmod>
   </url>
   
   <url>
@@ -145,11 +170,6 @@
   <url>
     <loc>https://picturingjordan.com/tags/fabric/</loc>
     <lastmod>2020-03-22T10:35:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://picturingjordan.com/tags/church/</loc>
-    <lastmod>2020-03-22T10:46:39+02:00</lastmod>
   </url>
   
   <url>
