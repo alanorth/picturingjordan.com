@@ -22,6 +22,6 @@ slug = "harvesting-olives-ajloun"
 
 <!--more-->
 
-The olive harvest usually starts around October or November. One of the major factors deciding when exactly to start the harvest is rain, as wet olives apparently produce more oil. In addition to olive oil itself, people in the community make a few food and beauty products from the olives and sell them through community owned and operated enterprises like the Soap House and the Biscuit House. You can [find out more](http://wildjordan.com/content/ajloun-forest-reserve-1) on the Wild Jordan website.
-
 {{< figure src="/2016/11/IMG_20161118_130626.jpg" title="How many olives can ten amateurs pick in thirty minutes?" alt="How many olives can ten amateurs pick in thirty minutes?" >}}
+
+The olive harvest usually starts around October or November. One of the major factors deciding when exactly to start the harvest is rain, as wet olives apparently produce more oil. In addition to olive oil itself, people in the community make a few food and beauty products from the olives and sell them through community owned and operated enterprises like the Soap House and the Biscuit House. You can [find out more](http://wildjordan.com/content/ajloun-forest-reserve-1) on the Wild Jordan website.
