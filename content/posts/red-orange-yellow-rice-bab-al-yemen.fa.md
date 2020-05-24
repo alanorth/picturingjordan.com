@@ -13,7 +13,6 @@ tags = [
   "اَمان",
 ]
 slug = "red-orange-yellow-rice-bab-al-yemen"
-draft = true
 +++
 
 {{< figure src="/2016/11/IMG_20161110_220626.jpg" title="انواع برنج های چند رنگ که می توانید بخورید." >}}
