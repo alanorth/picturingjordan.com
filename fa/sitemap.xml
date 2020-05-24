@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/categories/</loc>
-    <lastmod>2020-04-03T15:43:32+03:00</lastmod>
+    <lastmod>2020-05-24T15:16:20+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/posts/</loc>
-    <lastmod>2020-04-03T15:43:32+03:00</lastmod>
+    <lastmod>2020-05-24T15:16:20+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://picturingjordan.com/fa/tags/</loc>
-    <lastmod>2020-04-03T15:43:32+03:00</lastmod>
+    <lastmod>2020-05-24T15:16:20+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -78,8 +78,98 @@
   </url>
   
   <url>
+    <loc>https://picturingjordan.com/fa/tags/%D8%A7%D9%86%D8%AC%D9%85%D9%86/</loc>
+    <lastmod>2020-05-23T20:06:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/tags/%D8%A7%D9%8E%D9%85%D8%A7%D9%86/</loc>
+    <lastmod>2020-05-24T15:10:33+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/2020/05/contemporary-arab-design-jrf-showroom/</loc>
+    <lastmod>2020-05-23T20:06:15+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/12/contemporary-arab-design-jrf-showroom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2016/11/contemporary-arab-design-jrf-showroom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/2020/05/contemporary-arab-design-jrf-showroom/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/categories/%D8%B7%D8%B1%D8%AD/</loc>
+    <lastmod>2020-05-23T20:06:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/tags/%D8%A2%D8%AC%D9%84%D9%88%D9%86/</loc>
+    <lastmod>2020-05-24T15:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/2020/05/harvesting-olives-ajloun/</loc>
+    <lastmod>2020-05-24T15:16:20+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2016/11/harvesting-olives-ajloun/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/2020/05/harvesting-olives-ajloun/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/tags/%D8%B2%DB%8C%D8%AA%D9%88%D9%86/</loc>
+    <lastmod>2020-05-24T15:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/categories/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA/</loc>
+    <lastmod>2020-05-24T15:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/2020/05/red-orange-yellow-rice-bab-al-yemen/</loc>
+    <lastmod>2020-05-24T15:10:33+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/2019/08/red-orange-yellow-rice-bab-al-yemen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/2016/11/red-orange-yellow-rice-bab-al-yemen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/2020/05/red-orange-yellow-rice-bab-al-yemen/"
+                />
+  </url>
+  
+  <url>
     <loc>https://picturingjordan.com/fa/categories/%D8%BA%D8%B0%D8%A7/</loc>
-    <lastmod>2020-04-03T15:43:32+03:00</lastmod>
+    <lastmod>2020-05-24T15:10:33+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/tags/%DB%8C%D9%85%D9%86/</loc>
+    <lastmod>2020-05-24T15:10:33+03:00</lastmod>
   </url>
   
   <url>
@@ -193,11 +283,6 @@
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/fa/categories/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA/</loc>
-    <lastmod>2020-03-27T11:44:54+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://picturingjordan.com/fa/tags/%D8%A8%DB%8C%D8%A7%D8%A8%D8%A7%D9%86/</loc>
     <lastmod>2020-03-24T10:56:08+02:00</lastmod>
   </url>
@@ -275,11 +360,6 @@
   <url>
     <loc>https://picturingjordan.com/fa/categories/%D8%A7%D8%B3%D9%84%D8%A7%D9%85/</loc>
     <lastmod>2020-03-22T10:35:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://picturingjordan.com/fa/tags/%D8%A7%D9%8E%D9%85%D8%A7%D9%86/</loc>
-    <lastmod>2020-03-26T17:49:48+02:00</lastmod>
   </url>
   
   <url>
@@ -380,11 +460,6 @@
                 hreflang="fa"
                 href="https://picturingjordan.com/fa/2020/03/buying-bedouin-fabric-amman/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://picturingjordan.com/fa/categories/%D8%B7%D8%B1%D8%AD/</loc>
-    <lastmod>2020-03-26T17:49:48+02:00</lastmod>
   </url>
   
   <url>
