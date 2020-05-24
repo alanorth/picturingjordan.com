@@ -14,7 +14,6 @@ tags = [
 date = "2020-05-23T14:49:05+03:00"
 title = "برداشت زیتون در آجولین"
 slug = "harvesting-olives-ajloun"
-draft = true
 +++
 
 {{< figure src="/2016/11/IMG_20161118_130025.jpg" title="زیتون چیده شده تازه" >}}
