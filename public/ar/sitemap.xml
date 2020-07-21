@@ -28,6 +28,31 @@
   </url>
   
   <url>
+    <loc>https://picturingjordan.com/ar/</loc>
+    <lastmod>2020-05-23T15:05:43+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/"
+                />
+  </url>
+  
+  <url>
     <loc>https://picturingjordan.com/ar/posts/</loc>
     <lastmod>2020-05-23T15:05:43+03:00</lastmod>
     <xhtml:link
@@ -402,6 +427,11 @@
     <lastmod>2020-03-22T10:35:09+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/2020/03/greco-roman-ruins-jerash/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://picturingjordan.com/2017/04/greco-roman-ruins-jerash/"
                 />
@@ -615,31 +645,6 @@
   <url>
     <loc>https://picturingjordan.com/ar/tags/%D8%AC%D8%B1%D8%A7%D9%81%D9%8A%D8%AA%D9%8A/</loc>
     <lastmod>2020-03-22T10:35:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://picturingjordan.com/ar/</loc>
-    <lastmod>2019-04-18T22:24:43+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://picturingjordan.com/fa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://picturingjordan.com/bg/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://picturingjordan.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://picturingjordan.com/ar/"
-                />
   </url>
   
   <url>

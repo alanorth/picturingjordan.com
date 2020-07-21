@@ -53,6 +53,31 @@
   </url>
   
   <url>
+    <loc>https://picturingjordan.com/</loc>
+    <lastmod>2020-05-23T15:05:43+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/"
+                />
+  </url>
+  
+  <url>
     <loc>https://picturingjordan.com/posts/</loc>
     <lastmod>2020-05-23T15:05:43+03:00</lastmod>
     <xhtml:link
@@ -293,33 +318,13 @@
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/</loc>
-    <lastmod>2019-04-18T18:31:47+03:00</lastmod>
+    <loc>https://picturingjordan.com/2017/04/greco-roman-ruins-jerash/</loc>
+    <lastmod>2020-03-22T10:35:09+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://picturingjordan.com/fa/"
+                href="https://picturingjordan.com/fa/2020/03/greco-roman-ruins-jerash/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://picturingjordan.com/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://picturingjordan.com/bg/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://picturingjordan.com/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://picturingjordan.com/2017/04/greco-roman-ruins-jerash/</loc>
-    <lastmod>2020-03-22T10:35:09+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
