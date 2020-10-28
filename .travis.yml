@@ -1,6 +1,6 @@
 language: go
 go:
-  - "1.14.1"
+  - "1.15.x"
 install:
   - mkdir -p $HOME/src
   - git clone https://github.com/gohugoio/hugo.git $HOME/src/hugo
