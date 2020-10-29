@@ -1,5 +1,4 @@
 +++
-date = "2017-01-24T16:33:27+03:00"
 title = "За Нас"
 sharingicons = false
 menu = "navbar"

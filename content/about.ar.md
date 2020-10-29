@@ -1,5 +1,4 @@
 +++
-date = "2018-11-07T22:05:27+02:00"
 title = "عن المُدَوَّنَة"
 sharingicons = false
 menu = "navbar"

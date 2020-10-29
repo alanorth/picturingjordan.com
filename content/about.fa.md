@@ -1,5 +1,4 @@
 +++
-date = "2020-03-16T16:04:17+02:00"
 title = "در باره"
 sharingicons = false
 menu = "navbar"

@@ -1,5 +1,4 @@
 +++
-date = "2017-04-16T17:54:50+03:00"
 title = "Contact"
 sharingicons = false
 menu = "navbar"
