@@ -303,21 +303,6 @@
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/contact/</loc>
-    <lastmod>2018-03-09T17:44:05+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://picturingjordan.com/bg/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://picturingjordan.com/contact/"
-                />
-  </url>
-  
-  <url>
     <loc>https://picturingjordan.com/2017/04/greco-roman-ruins-jerash/</loc>
     <lastmod>2020-03-22T10:35:09+02:00</lastmod>
     <xhtml:link
@@ -728,31 +713,6 @@
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/about/</loc>
-    <lastmod>2019-04-18T18:31:47+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://picturingjordan.com/fa/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://picturingjordan.com/ar/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://picturingjordan.com/bg/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://picturingjordan.com/about/"
-                />
-  </url>
-  
-  <url>
     <loc>https://picturingjordan.com/tags/eid/</loc>
     <lastmod>2020-03-22T10:35:09+02:00</lastmod>
   </url>
@@ -775,6 +735,46 @@
   <url>
     <loc>https://picturingjordan.com/tags/noise/</loc>
     <lastmod>2020-03-22T10:35:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/about/</loc>
+    <lastmod>2020-10-29T12:56:58+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/contact/</loc>
+    <lastmod>2020-10-29T12:56:58+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/contact/"
+                />
   </url>
   
 </urlset>
