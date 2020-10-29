@@ -513,31 +513,6 @@
   </url>
   
   <url>
-    <loc>https://picturingjordan.com/fa/about/</loc>
-    <lastmod>2020-03-22T11:35:19+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://picturingjordan.com/ar/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://picturingjordan.com/bg/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://picturingjordan.com/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://picturingjordan.com/fa/about/"
-                />
-  </url>
-  
-  <url>
     <loc>https://picturingjordan.com/fa/2020/03/iconic-roman-ruins-amman/</loc>
     <lastmod>2020-03-22T10:35:09+02:00</lastmod>
     <xhtml:link
@@ -554,6 +529,31 @@
                 rel="alternate"
                 hreflang="fa"
                 href="https://picturingjordan.com/fa/2020/03/iconic-roman-ruins-amman/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://picturingjordan.com/fa/about/</loc>
+    <lastmod>2020-10-29T12:56:58+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://picturingjordan.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://picturingjordan.com/bg/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://picturingjordan.com/ar/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://picturingjordan.com/fa/about/"
                 />
   </url>
   
