@@ -15,7 +15,55 @@
       
       <guid>https://picturingjordan.com/ar/2020/03/iconic-roman-ruins-amman/</guid>
       <description>&lt;figure&gt;
-    &lt;img src=&#34;https://picturingjordan.com/2020/01/2019-11-01-amman-citadel.jpg&#34;/&gt; &lt;figcaption&gt;
+    &lt;img
+        
+            sizes=&#34;(min-width: 35em) 1200px, 100vw&#34;
+              
+            srcset=&#39;
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/ar/2020/03/iconic-roman-ruins-amman/2019-11-01-amman-citadel_hue8bb34c64c739c0afd009cda4bb3735e_3545121_480x0_resize_q75_box.jpg 480w,
+                   
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/ar/2020/03/iconic-roman-ruins-amman/2019-11-01-amman-citadel_hue8bb34c64c739c0afd009cda4bb3735e_3545121_800x0_resize_q75_box.jpg 800w,
+                   
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/ar/2020/03/iconic-roman-ruins-amman/2019-11-01-amman-citadel_hue8bb34c64c739c0afd009cda4bb3735e_3545121_1200x0_resize_q75_box.jpg 1200w,
+                   
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/ar/2020/03/iconic-roman-ruins-amman/2019-11-01-amman-citadel_hue8bb34c64c739c0afd009cda4bb3735e_3545121_1500x0_resize_q75_box.jpg 1500w,
+                   
+            &#39;
+
+            
+            
+            src=&#34;https://picturingjordan.com/ar/2020/03/iconic-roman-ruins-amman/2019-11-01-amman-citadel_hue8bb34c64c739c0afd009cda4bb3735e_3545121_800x0_resize_q75_box.jpg&#34;
+            
+
+        /&gt; &lt;figcaption&gt;
             &lt;h4&gt;أَطْلَالُ مَعْبَدِ هِرَقْلَ الرُّومَانِيِّ&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;

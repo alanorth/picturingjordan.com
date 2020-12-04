@@ -15,7 +15,55 @@
       
       <guid>https://picturingjordan.com/ar/2019/07/grandeur-petra/</guid>
       <description>&lt;figure&gt;
-    &lt;img src=&#34;https://picturingjordan.com/2016/12/DSC_0029.JPG&#34;/&gt; &lt;figcaption&gt;
+    &lt;img
+        
+            sizes=&#34;(min-width: 35em) 1200px, 100vw&#34;
+              
+            srcset=&#39;
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/ar/2019/07/grandeur-petra/DSC_0029_hu6247ac82c844b4dbac538bf97308849e_1791978_480x0_resize_q75_box.JPG 480w,
+                   
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/ar/2019/07/grandeur-petra/DSC_0029_hu6247ac82c844b4dbac538bf97308849e_1791978_800x0_resize_q75_box.JPG 800w,
+                   
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/ar/2019/07/grandeur-petra/DSC_0029_hu6247ac82c844b4dbac538bf97308849e_1791978_1200x0_resize_q75_box.JPG 1200w,
+                   
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/ar/2019/07/grandeur-petra/DSC_0029_hu6247ac82c844b4dbac538bf97308849e_1791978_1500x0_resize_q75_box.JPG 1500w,
+                   
+            &#39;
+
+            
+            
+            src=&#34;https://picturingjordan.com/ar/2019/07/grandeur-petra/DSC_0029_hu6247ac82c844b4dbac538bf97308849e_1791978_800x0_resize_q75_box.JPG&#34;
+            
+
+        /&gt; &lt;figcaption&gt;
             &lt;h4&gt;دَيْر البَتْرَاء  يَتَمَتَّعُ بالنُّورالذَّهَبِيّ قُبَيْل غُرُوبِ الشَّمْس&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;

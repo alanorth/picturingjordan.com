@@ -15,8 +15,56 @@
       
       <guid>https://picturingjordan.com/2018/02/greco-roman-ruins-pella/</guid>
       <description>&lt;figure&gt;
-    &lt;img src=&#34;https://picturingjordan.com/2018/02/DSC_0005.JPG&#34;
-         alt=&#34;Remains of the classical basilica of Pella&#34;/&gt; &lt;figcaption&gt;
+    &lt;img
+        
+            sizes=&#34;(min-width: 35em) 1200px, 100vw&#34;
+              
+            srcset=&#39;
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/2018/02/greco-roman-ruins-pella/DSC_0005_huff8aa5895bea96743b27179bb809f0e2_2549122_480x0_resize_q75_box.JPG 480w,
+                   
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/2018/02/greco-roman-ruins-pella/DSC_0005_huff8aa5895bea96743b27179bb809f0e2_2549122_800x0_resize_q75_box.JPG 800w,
+                   
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/2018/02/greco-roman-ruins-pella/DSC_0005_huff8aa5895bea96743b27179bb809f0e2_2549122_1200x0_resize_q75_box.JPG 1200w,
+                   
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/2018/02/greco-roman-ruins-pella/DSC_0005_huff8aa5895bea96743b27179bb809f0e2_2549122_1500x0_resize_q75_box.JPG 1500w,
+                   
+            &#39;
+
+            
+            
+            src=&#34;https://picturingjordan.com/2018/02/greco-roman-ruins-pella/DSC_0005_huff8aa5895bea96743b27179bb809f0e2_2549122_800x0_resize_q75_box.JPG&#34;
+            
+
+        
+            alt=&#34;Remains of the classical basilica of Pella&#34;/&gt; &lt;figcaption&gt;
             &lt;h4&gt;Remains of the classical basilica of Pella&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
