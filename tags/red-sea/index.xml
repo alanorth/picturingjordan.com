@@ -15,8 +15,44 @@
       
       <guid>https://picturingjordan.com/2016/10/aqaba-dirty-disappointing/</guid>
       <description>&lt;figure&gt;
-    &lt;img src=&#34;https://picturingjordan.com/2016/10/IMG_20161002_131313.jpg&#34;
-         alt=&#34;A picturesque view where you can&amp;#39;t see the trash on the beach&#34;/&gt; &lt;figcaption&gt;
+    &lt;img
+        
+            sizes=&#34;(min-width: 35em) 1200px, 100vw&#34;
+              
+            srcset=&#39;
+            
+                   
+                   
+                   
+                   
+                   
+            
+                   
+                   
+                   
+                   
+                   
+            
+                   
+                   
+                   
+                   
+                   
+            
+                   
+                   
+                   
+                   
+                   
+            &#39;
+
+            
+            
+            src=&#34;https://picturingjordan.com/2016/10/aqaba-dirty-disappointing/IMG_20161002_131313_huf4bb451e1df9f9493ba44b7c6e80acbe_218364_800x0_resize_q75_box.jpg&#34;
+            
+
+        
+            alt=&#34;A picturesque view where you can&amp;#39;t see the trash on the beach&#34;/&gt; &lt;figcaption&gt;
             &lt;h4&gt;A picturesque view where you can&amp;#39;t see the trash on the beach&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;

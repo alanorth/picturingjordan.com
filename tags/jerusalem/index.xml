@@ -15,8 +15,56 @@
       
       <guid>https://picturingjordan.com/2017/01/dome-of-the-rock/</guid>
       <description>&lt;figure&gt;
-    &lt;img src=&#34;https://picturingjordan.com/2017/01/IMG_20170117_083551.jpg&#34;
-         alt=&#34;Golden dome, vibrant tiles, and elegant Arabic calligraphy&#34;/&gt; &lt;figcaption&gt;
+    &lt;img
+        
+            sizes=&#34;(min-width: 35em) 1200px, 100vw&#34;
+              
+            srcset=&#39;
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/2017/01/dome-of-the-rock/2017-01-17_083551_hu366047001d5971d725db57761765ab96_2677498_480x0_resize_q75_box.jpg 480w,
+                   
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/2017/01/dome-of-the-rock/2017-01-17_083551_hu366047001d5971d725db57761765ab96_2677498_800x0_resize_q75_box.jpg 800w,
+                   
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/2017/01/dome-of-the-rock/2017-01-17_083551_hu366047001d5971d725db57761765ab96_2677498_1200x0_resize_q75_box.jpg 1200w,
+                   
+            
+                   
+                   
+                   
+                   
+                   
+                   
+                   https://picturingjordan.com/2017/01/dome-of-the-rock/2017-01-17_083551_hu366047001d5971d725db57761765ab96_2677498_1500x0_resize_q75_box.jpg 1500w,
+                   
+            &#39;
+
+            
+            
+            src=&#34;https://picturingjordan.com/2017/01/dome-of-the-rock/2017-01-17_083551_hu366047001d5971d725db57761765ab96_2677498_800x0_resize_q75_box.jpg&#34;
+            
+
+        
+            alt=&#34;Golden dome, vibrant tiles, and elegant Arabic calligraphy&#34;/&gt; &lt;figcaption&gt;
             &lt;h4&gt;Golden dome, vibrant tiles, and elegant Arabic calligraphy&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
