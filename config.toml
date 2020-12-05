@@ -10,6 +10,15 @@ paginate = 3
 copyright = "Except where otherwise noted, content on this site is licensed under a <a rel='license' href='https://creativecommons.org/licenses/by-sa/4.0/'>Creative Commons Attribution 4.0 International license</a>."
 enableGitInfo = true
 
+#[imaging]
+# Default resample filter used for resizing. Default is Box,
+# # a simple and fast averaging filter appropriate for downscaling.
+# # See https://github.com/disintegration/imaging
+#resampleFilter = "CatmullRom"
+
+# Default JPEG quality setting. Default is 75.
+#quality = 82
+
 [permalinks]
   posts = "/:year/:month/:slug/"
   page = "/:slug/"
