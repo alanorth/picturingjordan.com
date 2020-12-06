@@ -1,6 +1,10 @@
 language: go
 go:
   - "1.15.x"
+env:
+  global:
+    - CACHE_NAME=${TRAVIS_ARCH}
+    - GOPROXY=https://proxy.golang.org
 install:
   - mkdir -p $HOME/src
   - git clone https://github.com/gohugoio/hugo.git $HOME/src/hugo
