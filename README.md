@@ -1,4 +1,4 @@
-# Picturing Jordan [![Build Status](https://travis-ci.org/alanorth/picturingjordan.com.svg?branch=master)](https://travis-ci.org/alanorth/picturingjordan.com) [![builds.sr.ht status](https://builds.sr.ht/~alanorth/picturingjordan.com.svg)](https://builds.sr.ht/~alanorth/picturingjordan.com?)
+# Picturing Jordan [![Build Status](https://travis-ci.com/alanorth/picturingjordan.com.svg?branch=master)](https://travis-ci.org/alanorth/picturingjordan.com) [![builds.sr.ht status](https://builds.sr.ht/~alanorth/picturingjordan.com.svg)](https://builds.sr.ht/~alanorth/picturingjordan.com?)
 Picturing Jordan is a blog that attempts to share Jordan with the world one picture at a time.
 
 <p align="center">
