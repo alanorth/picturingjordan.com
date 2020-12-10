@@ -1,3 +1,7 @@
+**Note (2020-12-10): this repository has been migrated to https://git.mjanja.ch/alanorth/picturingjordan.com**
+
+<hr/>
+
 # Picturing Jordan [![Build Status](https://ci.mjanja.ch/api/badges/alanorth/picturingjordan.com/status.svg)](https://ci.mjanja.ch/alanorth/picturingjordan.com)
 Picturing Jordan is a blog that attempts to share Jordan with the world one picture at a time.
 
