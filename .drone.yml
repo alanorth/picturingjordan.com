@@ -1,0 +1,15 @@
+kind: pipeline
+type: docker
+name: default
+
+steps:
+- name: submodules
+  image: alpine/git
+  commands:
+  - git submodule update --recursive --remote
+- name: build
+  image: klakegg/hugo
+  commands:
+  - hugo
+
+# vim: ts=2 sw=2 et
